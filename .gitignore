@@ -11,6 +11,8 @@ __pycache__/
 best.pt
 outputs/part_b/checkpoints/best_crnn_ctc.pt
 part c/model/best_legal_crnn_ctc.pt
+yolov8n.pt
+part_a/best.pt
 
 # Raw image crops (large dataset, not appropriate for git)
 outputs/part_b/crops/
@@ -33,6 +35,7 @@ NLP-Project-20260508T175630Z-3-001/
 Ultralytics/
 tests/
 report/
+yolo_dataset/
 
 # Smoke test outputs (intermediate/dev runs)
 outputs/part_b_smoke/
