@@ -1,0 +1,1282 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 2.3974772563321958,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 0,
+      "deletions": 633,
+      "substitutions": 105,
+      "digit_accuracy_percent": 9.225092250922506,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 0.0,
+      "two_or_more_errors_amount_percent": 100.0,
+      "loss": 2.583414840698242
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 2.1350613452230087,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 0,
+      "deletions": 667,
+      "substitutions": 88,
+      "digit_accuracy_percent": 7.13407134071341,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 0.0,
+      "two_or_more_errors_amount_percent": 100.0,
+      "loss": 2.447782776090834
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 2.0322556067374618,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 0,
+      "deletions": 532,
+      "substitutions": 114,
+      "digit_accuracy_percent": 20.54120541205412,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 0.5555555555555556,
+      "two_or_more_errors_amount_percent": 99.44444444444444,
+      "loss": 2.175983296500312
+    }
+  },
+  {
+    "epoch": 4,
+    "train_loss": 1.998589751453678,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 0,
+      "deletions": 577,
+      "substitutions": 106,
+      "digit_accuracy_percent": 15.990159901599021,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 1.6666666666666667,
+      "two_or_more_errors_amount_percent": 98.33333333333333,
+      "loss": 2.0770638042026097
+    }
+  },
+  {
+    "epoch": 5,
+    "train_loss": 1.9407067747891489,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 0,
+      "deletions": 530,
+      "substitutions": 118,
+      "digit_accuracy_percent": 20.295202952029523,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 1.1111111111111112,
+      "two_or_more_errors_amount_percent": 98.88888888888889,
+      "loss": 2.1477025349934897
+    }
+  },
+  {
+    "epoch": 6,
+    "train_loss": 1.9051844454043603,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 3,
+      "deletions": 487,
+      "substitutions": 125,
+      "digit_accuracy_percent": 24.354243542435427,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 2.7777777777777777,
+      "two_or_more_errors_amount_percent": 97.22222222222221,
+      "loss": 2.1113505257500544
+    }
+  },
+  {
+    "epoch": 7,
+    "train_loss": 1.8669678804524827,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 1,
+      "deletions": 485,
+      "substitutions": 105,
+      "digit_accuracy_percent": 27.306273062730625,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 6.666666666666667,
+      "two_or_more_errors_amount_percent": 93.33333333333333,
+      "loss": 1.9800213654836019
+    }
+  },
+  {
+    "epoch": 8,
+    "train_loss": 1.7756081808764874,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 7,
+      "deletions": 426,
+      "substitutions": 121,
+      "digit_accuracy_percent": 31.857318573185733,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 6.111111111111111,
+      "two_or_more_errors_amount_percent": 93.88888888888889,
+      "loss": 1.8702571603986953
+    }
+  },
+  {
+    "epoch": 9,
+    "train_loss": 1.716181442421124,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 269,
+      "substitutions": 212,
+      "digit_accuracy_percent": 38.622386223862236,
+      "exact_amount_percent": 1.6666666666666667,
+      "one_error_amount_percent": 16.666666666666664,
+      "two_or_more_errors_amount_percent": 81.66666666666667,
+      "loss": 1.9650230725606284
+    }
+  },
+  {
+    "epoch": 10,
+    "train_loss": 1.6150517588775137,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 26,
+      "deletions": 304,
+      "substitutions": 264,
+      "digit_accuracy_percent": 26.937269372693727,
+      "exact_amount_percent": 0.0,
+      "one_error_amount_percent": 2.2222222222222223,
+      "two_or_more_errors_amount_percent": 97.77777777777777,
+      "loss": 2.2814885033501517
+    }
+  },
+  {
+    "epoch": 11,
+    "train_loss": 1.5154471167928234,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 22,
+      "deletions": 281,
+      "substitutions": 188,
+      "digit_accuracy_percent": 39.60639606396064,
+      "exact_amount_percent": 2.2222222222222223,
+      "one_error_amount_percent": 11.11111111111111,
+      "two_or_more_errors_amount_percent": 86.66666666666667,
+      "loss": 1.7493811554378933
+    }
+  },
+  {
+    "epoch": 12,
+    "train_loss": 1.394915584146024,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 56,
+      "deletions": 168,
+      "substitutions": 288,
+      "digit_accuracy_percent": 37.02337023370234,
+      "exact_amount_percent": 0.5555555555555556,
+      "one_error_amount_percent": 10.555555555555555,
+      "two_or_more_errors_amount_percent": 88.88888888888889,
+      "loss": 1.9140408780839708
+    }
+  },
+  {
+    "epoch": 13,
+    "train_loss": 1.3175178079492438,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 21,
+      "deletions": 201,
+      "substitutions": 185,
+      "digit_accuracy_percent": 49.938499384993854,
+      "exact_amount_percent": 5.0,
+      "one_error_amount_percent": 26.666666666666668,
+      "two_or_more_errors_amount_percent": 68.33333333333333,
+      "loss": 1.450675164328681
+    }
+  },
+  {
+    "epoch": 14,
+    "train_loss": 1.2083811377219809,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 29,
+      "deletions": 170,
+      "substitutions": 198,
+      "digit_accuracy_percent": 51.16851168511685,
+      "exact_amount_percent": 8.333333333333332,
+      "one_error_amount_percent": 22.77777777777778,
+      "two_or_more_errors_amount_percent": 68.88888888888889,
+      "loss": 1.3603560739093357
+    }
+  },
+  {
+    "epoch": 15,
+    "train_loss": 1.084642101775614,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 42,
+      "deletions": 157,
+      "substitutions": 181,
+      "digit_accuracy_percent": 53.25953259532595,
+      "exact_amount_percent": 10.555555555555555,
+      "one_error_amount_percent": 21.11111111111111,
+      "two_or_more_errors_amount_percent": 68.33333333333333,
+      "loss": 1.5384214003880818
+    }
+  },
+  {
+    "epoch": 16,
+    "train_loss": 0.9943226989646021,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 101,
+      "deletions": 99,
+      "substitutions": 182,
+      "digit_accuracy_percent": 53.013530135301345,
+      "exact_amount_percent": 6.666666666666667,
+      "one_error_amount_percent": 30.0,
+      "two_or_more_errors_amount_percent": 63.33333333333333,
+      "loss": 1.4305541541841296
+    }
+  },
+  {
+    "epoch": 17,
+    "train_loss": 0.9525463996122412,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 38,
+      "deletions": 116,
+      "substitutions": 183,
+      "digit_accuracy_percent": 58.548585485854865,
+      "exact_amount_percent": 15.555555555555555,
+      "one_error_amount_percent": 26.111111111111114,
+      "two_or_more_errors_amount_percent": 58.333333333333336,
+      "loss": 1.185415964656406
+    }
+  },
+  {
+    "epoch": 18,
+    "train_loss": 0.8854896094419626,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 26,
+      "deletions": 123,
+      "substitutions": 151,
+      "digit_accuracy_percent": 63.09963099630996,
+      "exact_amount_percent": 18.88888888888889,
+      "one_error_amount_percent": 32.22222222222222,
+      "two_or_more_errors_amount_percent": 48.888888888888886,
+      "loss": 1.1973446077770658
+    }
+  },
+  {
+    "epoch": 19,
+    "train_loss": 0.7760805949475551,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 38,
+      "deletions": 107,
+      "substitutions": 128,
+      "digit_accuracy_percent": 66.42066420664207,
+      "exact_amount_percent": 19.444444444444446,
+      "one_error_amount_percent": 43.888888888888886,
+      "two_or_more_errors_amount_percent": 36.666666666666664,
+      "loss": 1.0128047784169516
+    }
+  },
+  {
+    "epoch": 20,
+    "train_loss": 0.6898562536213114,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 48,
+      "deletions": 82,
+      "substitutions": 113,
+      "digit_accuracy_percent": 70.11070110701108,
+      "exact_amount_percent": 26.111111111111114,
+      "one_error_amount_percent": 38.88888888888889,
+      "two_or_more_errors_amount_percent": 35.0,
+      "loss": 0.9907275173399184
+    }
+  },
+  {
+    "epoch": 21,
+    "train_loss": 0.6595689175110712,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 38,
+      "deletions": 121,
+      "substitutions": 209,
+      "digit_accuracy_percent": 54.73554735547356,
+      "exact_amount_percent": 10.555555555555555,
+      "one_error_amount_percent": 29.444444444444446,
+      "two_or_more_errors_amount_percent": 60.0,
+      "loss": 1.5608433458540174
+    }
+  },
+  {
+    "epoch": 22,
+    "train_loss": 0.6250751266635235,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 19,
+      "deletions": 104,
+      "substitutions": 95,
+      "digit_accuracy_percent": 73.18573185731859,
+      "exact_amount_percent": 32.22222222222222,
+      "one_error_amount_percent": 36.666666666666664,
+      "two_or_more_errors_amount_percent": 31.11111111111111,
+      "loss": 1.0034022251764934
+    }
+  },
+  {
+    "epoch": 23,
+    "train_loss": 0.561953691785082,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 46,
+      "deletions": 77,
+      "substitutions": 81,
+      "digit_accuracy_percent": 74.90774907749078,
+      "exact_amount_percent": 32.22222222222222,
+      "one_error_amount_percent": 43.888888888888886,
+      "two_or_more_errors_amount_percent": 23.88888888888889,
+      "loss": 0.869586910141839
+    }
+  },
+  {
+    "epoch": 24,
+    "train_loss": 0.5317344791861024,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 96,
+      "substitutions": 50,
+      "digit_accuracy_percent": 79.8277982779828,
+      "exact_amount_percent": 45.0,
+      "one_error_amount_percent": 35.55555555555556,
+      "two_or_more_errors_amount_percent": 19.444444444444446,
+      "loss": 0.7397608200709025
+    }
+  },
+  {
+    "epoch": 25,
+    "train_loss": 0.5299888579608502,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 11,
+      "deletions": 105,
+      "substitutions": 56,
+      "digit_accuracy_percent": 78.84378843788437,
+      "exact_amount_percent": 40.55555555555556,
+      "one_error_amount_percent": 41.11111111111111,
+      "two_or_more_errors_amount_percent": 18.333333333333332,
+      "loss": 0.7683035439915127
+    }
+  },
+  {
+    "epoch": 26,
+    "train_loss": 0.5037344839939067,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 12,
+      "deletions": 89,
+      "substitutions": 51,
+      "digit_accuracy_percent": 81.30381303813039,
+      "exact_amount_percent": 48.333333333333336,
+      "one_error_amount_percent": 33.88888888888889,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.7045243713590834
+    }
+  },
+  {
+    "epoch": 27,
+    "train_loss": 0.4892271281821269,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 17,
+      "deletions": 89,
+      "substitutions": 47,
+      "digit_accuracy_percent": 81.18081180811808,
+      "exact_amount_percent": 47.77777777777778,
+      "one_error_amount_percent": 34.44444444444444,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.6863754616843329
+    }
+  },
+  {
+    "epoch": 28,
+    "train_loss": 0.4410865906214366,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 14,
+      "deletions": 82,
+      "substitutions": 63,
+      "digit_accuracy_percent": 80.44280442804428,
+      "exact_amount_percent": 42.77777777777778,
+      "one_error_amount_percent": 39.44444444444444,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.7113210598627726
+    }
+  },
+  {
+    "epoch": 29,
+    "train_loss": 0.4023728875172809,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 12,
+      "deletions": 82,
+      "substitutions": 57,
+      "digit_accuracy_percent": 81.42681426814268,
+      "exact_amount_percent": 49.44444444444444,
+      "one_error_amount_percent": 30.555555555555557,
+      "two_or_more_errors_amount_percent": 20.0,
+      "loss": 0.659838941362169
+    }
+  },
+  {
+    "epoch": 30,
+    "train_loss": 0.3816824372523853,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 32,
+      "deletions": 66,
+      "substitutions": 55,
+      "digit_accuracy_percent": 81.18081180811808,
+      "exact_amount_percent": 49.44444444444444,
+      "one_error_amount_percent": 34.44444444444444,
+      "two_or_more_errors_amount_percent": 16.11111111111111,
+      "loss": 0.7509512344996134
+    }
+  },
+  {
+    "epoch": 31,
+    "train_loss": 0.3678006928484004,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 78,
+      "substitutions": 48,
+      "digit_accuracy_percent": 82.28782287822878,
+      "exact_amount_percent": 53.333333333333336,
+      "one_error_amount_percent": 30.555555555555557,
+      "two_or_more_errors_amount_percent": 16.11111111111111,
+      "loss": 0.6553647716840109
+    }
+  },
+  {
+    "epoch": 32,
+    "train_loss": 0.3835648047045919,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 34,
+      "deletions": 72,
+      "substitutions": 51,
+      "digit_accuracy_percent": 80.68880688806888,
+      "exact_amount_percent": 49.44444444444444,
+      "one_error_amount_percent": 32.77777777777778,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.7062008804745145
+    }
+  },
+  {
+    "epoch": 33,
+    "train_loss": 0.336511228111902,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 21,
+      "deletions": 70,
+      "substitutions": 45,
+      "digit_accuracy_percent": 83.27183271832719,
+      "exact_amount_percent": 53.333333333333336,
+      "one_error_amount_percent": 32.77777777777778,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.5940149082077875
+    }
+  },
+  {
+    "epoch": 34,
+    "train_loss": 0.309885910437122,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 46,
+      "deletions": 54,
+      "substitutions": 48,
+      "digit_accuracy_percent": 81.79581795817958,
+      "exact_amount_percent": 50.55555555555556,
+      "one_error_amount_percent": 33.33333333333333,
+      "two_or_more_errors_amount_percent": 16.11111111111111,
+      "loss": 0.6306604186693827
+    }
+  },
+  {
+    "epoch": 35,
+    "train_loss": 0.30802107292219033,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 29,
+      "deletions": 66,
+      "substitutions": 35,
+      "digit_accuracy_percent": 84.00984009840099,
+      "exact_amount_percent": 58.333333333333336,
+      "one_error_amount_percent": 26.111111111111114,
+      "two_or_more_errors_amount_percent": 15.555555555555555,
+      "loss": 0.6327890250417921
+    }
+  },
+  {
+    "epoch": 36,
+    "train_loss": 0.28608926861463446,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 27,
+      "deletions": 60,
+      "substitutions": 50,
+      "digit_accuracy_percent": 83.14883148831488,
+      "exact_amount_percent": 55.00000000000001,
+      "one_error_amount_percent": 28.888888888888886,
+      "two_or_more_errors_amount_percent": 16.11111111111111,
+      "loss": 0.6253620677524143
+    }
+  },
+  {
+    "epoch": 37,
+    "train_loss": 0.2799951001701461,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 19,
+      "deletions": 62,
+      "substitutions": 42,
+      "digit_accuracy_percent": 84.87084870848709,
+      "exact_amount_percent": 62.22222222222222,
+      "one_error_amount_percent": 23.88888888888889,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.5866945624351502
+    }
+  },
+  {
+    "epoch": 38,
+    "train_loss": 0.26878268143797684,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 55,
+      "substitutions": 45,
+      "digit_accuracy_percent": 85.48585485854858,
+      "exact_amount_percent": 58.88888888888889,
+      "one_error_amount_percent": 27.22222222222222,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.5601006693310208
+    }
+  },
+  {
+    "epoch": 39,
+    "train_loss": 0.26304328191023557,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 28,
+      "deletions": 55,
+      "substitutions": 49,
+      "digit_accuracy_percent": 83.76383763837639,
+      "exact_amount_percent": 61.111111111111114,
+      "one_error_amount_percent": 25.0,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.619468703534868
+    }
+  },
+  {
+    "epoch": 40,
+    "train_loss": 0.251166468676467,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 23,
+      "deletions": 61,
+      "substitutions": 46,
+      "digit_accuracy_percent": 84.00984009840099,
+      "exact_amount_percent": 58.333333333333336,
+      "one_error_amount_percent": 26.666666666666668,
+      "two_or_more_errors_amount_percent": 15.0,
+      "loss": 0.5961090180608961
+    }
+  },
+  {
+    "epoch": 41,
+    "train_loss": 0.23968995056523476,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 22,
+      "deletions": 56,
+      "substitutions": 39,
+      "digit_accuracy_percent": 85.60885608856088,
+      "exact_amount_percent": 62.77777777777778,
+      "one_error_amount_percent": 23.333333333333332,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.5744306511349149
+    }
+  },
+  {
+    "epoch": 42,
+    "train_loss": 0.24006634891613066,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 66,
+      "deletions": 39,
+      "substitutions": 60,
+      "digit_accuracy_percent": 79.70479704797047,
+      "exact_amount_percent": 42.77777777777778,
+      "one_error_amount_percent": 39.44444444444444,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.7078614049487644
+    }
+  },
+  {
+    "epoch": 43,
+    "train_loss": 0.24238329715742016,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 26,
+      "deletions": 50,
+      "substitutions": 55,
+      "digit_accuracy_percent": 83.88683886838868,
+      "exact_amount_percent": 57.22222222222222,
+      "one_error_amount_percent": 26.111111111111114,
+      "two_or_more_errors_amount_percent": 16.666666666666664,
+      "loss": 0.6001327686839634
+    }
+  },
+  {
+    "epoch": 44,
+    "train_loss": 0.2273166084906722,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 45,
+      "deletions": 45,
+      "substitutions": 52,
+      "digit_accuracy_percent": 82.53382533825338,
+      "exact_amount_percent": 52.77777777777778,
+      "one_error_amount_percent": 31.666666666666664,
+      "two_or_more_errors_amount_percent": 15.555555555555555,
+      "loss": 0.6039321356349521
+    }
+  },
+  {
+    "epoch": 45,
+    "train_loss": 0.21320368197330425,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 13,
+      "deletions": 80,
+      "substitutions": 40,
+      "digit_accuracy_percent": 83.64083640836408,
+      "exact_amount_percent": 51.66666666666667,
+      "one_error_amount_percent": 35.0,
+      "two_or_more_errors_amount_percent": 13.333333333333334,
+      "loss": 0.6765108426411947
+    }
+  },
+  {
+    "epoch": 46,
+    "train_loss": 0.19154653774316813,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 16,
+      "deletions": 61,
+      "substitutions": 39,
+      "digit_accuracy_percent": 85.73185731857318,
+      "exact_amount_percent": 62.22222222222222,
+      "one_error_amount_percent": 23.88888888888889,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.5981540348794725
+    }
+  },
+  {
+    "epoch": 47,
+    "train_loss": 0.19419616162569842,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 36,
+      "deletions": 44,
+      "substitutions": 46,
+      "digit_accuracy_percent": 84.50184501845018,
+      "exact_amount_percent": 58.88888888888889,
+      "one_error_amount_percent": 25.555555555555554,
+      "two_or_more_errors_amount_percent": 15.555555555555555,
+      "loss": 0.5802842590543958
+    }
+  },
+  {
+    "epoch": 48,
+    "train_loss": 0.21007311942678428,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 16,
+      "deletions": 64,
+      "substitutions": 48,
+      "digit_accuracy_percent": 84.25584255842558,
+      "exact_amount_percent": 58.88888888888889,
+      "one_error_amount_percent": 27.77777777777778,
+      "two_or_more_errors_amount_percent": 13.333333333333334,
+      "loss": 0.6285286717944675
+    }
+  },
+  {
+    "epoch": 49,
+    "train_loss": 0.18034387875381985,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 16,
+      "deletions": 74,
+      "substitutions": 41,
+      "digit_accuracy_percent": 83.88683886838868,
+      "exact_amount_percent": 58.88888888888889,
+      "one_error_amount_percent": 24.444444444444443,
+      "two_or_more_errors_amount_percent": 16.666666666666664,
+      "loss": 0.6304793410831028
+    }
+  },
+  {
+    "epoch": 50,
+    "train_loss": 0.1826137751237314,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 17,
+      "deletions": 62,
+      "substitutions": 52,
+      "digit_accuracy_percent": 83.88683886838868,
+      "exact_amount_percent": 57.77777777777777,
+      "one_error_amount_percent": 27.22222222222222,
+      "two_or_more_errors_amount_percent": 15.0,
+      "loss": 0.6073006841871473
+    }
+  },
+  {
+    "epoch": 51,
+    "train_loss": 0.18030613883449603,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 13,
+      "deletions": 83,
+      "substitutions": 43,
+      "digit_accuracy_percent": 82.90282902829028,
+      "exact_amount_percent": 53.888888888888886,
+      "one_error_amount_percent": 31.11111111111111,
+      "two_or_more_errors_amount_percent": 15.0,
+      "loss": 0.7328684422704909
+    }
+  },
+  {
+    "epoch": 52,
+    "train_loss": 0.17517583092895955,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 25,
+      "deletions": 49,
+      "substitutions": 35,
+      "digit_accuracy_percent": 86.5928659286593,
+      "exact_amount_percent": 63.33333333333333,
+      "one_error_amount_percent": 25.0,
+      "two_or_more_errors_amount_percent": 11.666666666666666,
+      "loss": 0.5291931576199002
+    }
+  },
+  {
+    "epoch": 53,
+    "train_loss": 0.1977234924725976,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 11,
+      "deletions": 72,
+      "substitutions": 57,
+      "digit_accuracy_percent": 82.77982779827798,
+      "exact_amount_percent": 57.77777777777777,
+      "one_error_amount_percent": 24.444444444444443,
+      "two_or_more_errors_amount_percent": 17.77777777777778,
+      "loss": 0.7448360191451179
+    }
+  },
+  {
+    "epoch": 54,
+    "train_loss": 0.16391262994034578,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 16,
+      "deletions": 67,
+      "substitutions": 42,
+      "digit_accuracy_percent": 84.62484624846248,
+      "exact_amount_percent": 61.111111111111114,
+      "one_error_amount_percent": 22.77777777777778,
+      "two_or_more_errors_amount_percent": 16.11111111111111,
+      "loss": 0.6102929539150662
+    }
+  },
+  {
+    "epoch": 55,
+    "train_loss": 0.14001768845042228,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 11,
+      "deletions": 56,
+      "substitutions": 52,
+      "digit_accuracy_percent": 85.36285362853629,
+      "exact_amount_percent": 63.33333333333333,
+      "one_error_amount_percent": 21.666666666666668,
+      "two_or_more_errors_amount_percent": 15.0,
+      "loss": 0.6223932094044156
+    }
+  },
+  {
+    "epoch": 56,
+    "train_loss": 0.1571797434036064,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 33,
+      "deletions": 43,
+      "substitutions": 48,
+      "digit_accuracy_percent": 84.7478474784748,
+      "exact_amount_percent": 63.888888888888886,
+      "one_error_amount_percent": 18.88888888888889,
+      "two_or_more_errors_amount_percent": 17.22222222222222,
+      "loss": 0.6235563092761569
+    }
+  },
+  {
+    "epoch": 57,
+    "train_loss": 0.15451252911449556,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 27,
+      "deletions": 53,
+      "substitutions": 40,
+      "digit_accuracy_percent": 85.23985239852398,
+      "exact_amount_percent": 62.22222222222222,
+      "one_error_amount_percent": 23.333333333333332,
+      "two_or_more_errors_amount_percent": 14.444444444444443,
+      "loss": 0.56866534948349
+    }
+  },
+  {
+    "epoch": 58,
+    "train_loss": 0.1342879493278791,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 12,
+      "deletions": 64,
+      "substitutions": 62,
+      "digit_accuracy_percent": 83.02583025830258,
+      "exact_amount_percent": 58.333333333333336,
+      "one_error_amount_percent": 23.333333333333332,
+      "two_or_more_errors_amount_percent": 18.333333333333332,
+      "loss": 0.669990230931176
+    }
+  },
+  {
+    "epoch": 59,
+    "train_loss": 0.154506052022928,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 58,
+      "substitutions": 38,
+      "digit_accuracy_percent": 85.97785977859779,
+      "exact_amount_percent": 64.44444444444444,
+      "one_error_amount_percent": 22.77777777777778,
+      "two_or_more_errors_amount_percent": 12.777777777777777,
+      "loss": 0.6127139197455512
+    }
+  },
+  {
+    "epoch": 60,
+    "train_loss": 0.1353965745856979,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 46,
+      "substitutions": 50,
+      "digit_accuracy_percent": 85.97785977859779,
+      "exact_amount_percent": 66.66666666666666,
+      "one_error_amount_percent": 19.444444444444446,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.6375472161504957
+    }
+  },
+  {
+    "epoch": 61,
+    "train_loss": 0.12624951249572286,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 16,
+      "deletions": 43,
+      "substitutions": 46,
+      "digit_accuracy_percent": 87.08487084870849,
+      "exact_amount_percent": 67.22222222222223,
+      "one_error_amount_percent": 20.0,
+      "two_or_more_errors_amount_percent": 12.777777777777777,
+      "loss": 0.566248533460829
+    }
+  },
+  {
+    "epoch": 62,
+    "train_loss": 0.10244232336935523,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 18,
+      "deletions": 56,
+      "substitutions": 45,
+      "digit_accuracy_percent": 85.36285362853629,
+      "exact_amount_percent": 62.77777777777778,
+      "one_error_amount_percent": 22.22222222222222,
+      "two_or_more_errors_amount_percent": 15.0,
+      "loss": 0.670503044128418
+    }
+  },
+  {
+    "epoch": 63,
+    "train_loss": 0.13801614488678893,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 31,
+      "deletions": 42,
+      "substitutions": 55,
+      "digit_accuracy_percent": 84.25584255842558,
+      "exact_amount_percent": 58.88888888888889,
+      "one_error_amount_percent": 27.77777777777778,
+      "two_or_more_errors_amount_percent": 13.333333333333334,
+      "loss": 0.6848203712039523
+    }
+  },
+  {
+    "epoch": 64,
+    "train_loss": 0.147346869483849,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 32,
+      "deletions": 44,
+      "substitutions": 37,
+      "digit_accuracy_percent": 86.10086100861008,
+      "exact_amount_percent": 65.0,
+      "one_error_amount_percent": 21.666666666666668,
+      "two_or_more_errors_amount_percent": 13.333333333333334,
+      "loss": 0.5969211710823907
+    }
+  },
+  {
+    "epoch": 65,
+    "train_loss": 0.12602786912406128,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 15,
+      "deletions": 43,
+      "substitutions": 39,
+      "digit_accuracy_percent": 88.0688806888069,
+      "exact_amount_percent": 69.44444444444444,
+      "one_error_amount_percent": 20.555555555555554,
+      "two_or_more_errors_amount_percent": 10.0,
+      "loss": 0.5409029417567783
+    }
+  },
+  {
+    "epoch": 66,
+    "train_loss": 0.10439320660407879,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 42,
+      "deletions": 48,
+      "substitutions": 47,
+      "digit_accuracy_percent": 83.14883148831488,
+      "exact_amount_percent": 55.55555555555556,
+      "one_error_amount_percent": 30.0,
+      "two_or_more_errors_amount_percent": 14.444444444444443,
+      "loss": 0.6698354694578382
+    }
+  },
+  {
+    "epoch": 67,
+    "train_loss": 0.09112173040307504,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 28,
+      "deletions": 88,
+      "substitutions": 87,
+      "digit_accuracy_percent": 75.03075030750308,
+      "exact_amount_percent": 38.88888888888889,
+      "one_error_amount_percent": 30.555555555555557,
+      "two_or_more_errors_amount_percent": 30.555555555555557,
+      "loss": 1.2186735630035401
+    }
+  },
+  {
+    "epoch": 68,
+    "train_loss": 0.09787107029666993,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 15,
+      "deletions": 65,
+      "substitutions": 47,
+      "digit_accuracy_percent": 84.37884378843789,
+      "exact_amount_percent": 60.55555555555555,
+      "one_error_amount_percent": 25.0,
+      "two_or_more_errors_amount_percent": 14.444444444444443,
+      "loss": 0.6396858731905619
+    }
+  },
+  {
+    "epoch": 69,
+    "train_loss": 0.07644990328867622,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 15,
+      "deletions": 41,
+      "substitutions": 35,
+      "digit_accuracy_percent": 88.80688806888068,
+      "exact_amount_percent": 71.11111111111111,
+      "one_error_amount_percent": 17.77777777777778,
+      "two_or_more_errors_amount_percent": 11.11111111111111,
+      "loss": 0.5215841558244493
+    }
+  },
+  {
+    "epoch": 70,
+    "train_loss": 0.07722660769463165,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 26,
+      "deletions": 41,
+      "substitutions": 39,
+      "digit_accuracy_percent": 86.96186961869618,
+      "exact_amount_percent": 67.22222222222223,
+      "one_error_amount_percent": 21.11111111111111,
+      "two_or_more_errors_amount_percent": 11.666666666666666,
+      "loss": 0.620322318871816
+    }
+  },
+  {
+    "epoch": 71,
+    "train_loss": 0.06866307693835842,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 15,
+      "deletions": 59,
+      "substitutions": 36,
+      "digit_accuracy_percent": 86.46986469864699,
+      "exact_amount_percent": 65.0,
+      "one_error_amount_percent": 23.88888888888889,
+      "two_or_more_errors_amount_percent": 11.11111111111111,
+      "loss": 0.6199139621522691
+    }
+  },
+  {
+    "epoch": 72,
+    "train_loss": 0.07314918758224662,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 14,
+      "deletions": 48,
+      "substitutions": 43,
+      "digit_accuracy_percent": 87.08487084870849,
+      "exact_amount_percent": 68.33333333333333,
+      "one_error_amount_percent": 18.333333333333332,
+      "two_or_more_errors_amount_percent": 13.333333333333334,
+      "loss": 0.5642725255754258
+    }
+  },
+  {
+    "epoch": 73,
+    "train_loss": 0.055430877350576224,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 19,
+      "deletions": 64,
+      "substitutions": 35,
+      "digit_accuracy_percent": 85.48585485854858,
+      "exact_amount_percent": 61.66666666666667,
+      "one_error_amount_percent": 25.555555555555554,
+      "two_or_more_errors_amount_percent": 12.777777777777777,
+      "loss": 0.6888412793477376
+    }
+  },
+  {
+    "epoch": 74,
+    "train_loss": 0.06820638194845897,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 22,
+      "deletions": 37,
+      "substitutions": 37,
+      "digit_accuracy_percent": 88.19188191881919,
+      "exact_amount_percent": 70.0,
+      "one_error_amount_percent": 18.88888888888889,
+      "two_or_more_errors_amount_percent": 11.11111111111111,
+      "loss": 0.5866685443454318
+    }
+  },
+  {
+    "epoch": 75,
+    "train_loss": 0.05562252564002359,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 12,
+      "deletions": 38,
+      "substitutions": 42,
+      "digit_accuracy_percent": 88.68388683886839,
+      "exact_amount_percent": 68.88888888888889,
+      "one_error_amount_percent": 21.11111111111111,
+      "two_or_more_errors_amount_percent": 10.0,
+      "loss": 0.5740271992153592
+    }
+  },
+  {
+    "epoch": 76,
+    "train_loss": 0.06416668464857476,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 19,
+      "deletions": 43,
+      "substitutions": 38,
+      "digit_accuracy_percent": 87.69987699877,
+      "exact_amount_percent": 68.33333333333333,
+      "one_error_amount_percent": 20.555555555555554,
+      "two_or_more_errors_amount_percent": 11.11111111111111,
+      "loss": 0.5925112194485135
+    }
+  },
+  {
+    "epoch": 77,
+    "train_loss": 0.09098689310910223,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 22,
+      "deletions": 53,
+      "substitutions": 48,
+      "digit_accuracy_percent": 84.87084870848709,
+      "exact_amount_percent": 63.33333333333333,
+      "one_error_amount_percent": 22.77777777777778,
+      "two_or_more_errors_amount_percent": 13.88888888888889,
+      "loss": 0.7116262104776171
+    }
+  },
+  {
+    "epoch": 78,
+    "train_loss": 0.07870877127449823,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 26,
+      "deletions": 39,
+      "substitutions": 38,
+      "digit_accuracy_percent": 87.33087330873308,
+      "exact_amount_percent": 68.33333333333333,
+      "one_error_amount_percent": 19.444444444444446,
+      "two_or_more_errors_amount_percent": 12.222222222222221,
+      "loss": 0.5979678140746223
+    }
+  },
+  {
+    "epoch": 79,
+    "train_loss": 0.055378984271589465,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 17,
+      "deletions": 45,
+      "substitutions": 43,
+      "digit_accuracy_percent": 87.08487084870849,
+      "exact_amount_percent": 65.0,
+      "one_error_amount_percent": 22.77777777777778,
+      "two_or_more_errors_amount_percent": 12.222222222222221,
+      "loss": 0.6013554890950521
+    }
+  },
+  {
+    "epoch": 80,
+    "train_loss": 0.08755046476126546,
+    "val": {
+      "amounts_evaluated": 180,
+      "total_digits": 813,
+      "insertions": 41,
+      "deletions": 38,
+      "substitutions": 43,
+      "digit_accuracy_percent": 84.9938499384994,
+      "exact_amount_percent": 57.22222222222222,
+      "one_error_amount_percent": 30.555555555555557,
+      "two_or_more_errors_amount_percent": 12.222222222222221,
+      "loss": 0.6820025324821473
+    }
+  }
+]

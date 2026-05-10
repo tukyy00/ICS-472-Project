@@ -1,0 +1,87 @@
+{
+  "description": "Paper15 beam-search error-analysis summary. Detailed CSV tables live under validation_beam10 and test_beam10 for raw, normalized, and normalized_join_waw modes.",
+  "validation_beam10": {
+    "raw": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.683153013910355,
+      "wer_percent": 37.2234935163997,
+      "exact_text_percent": 24.581005586592177,
+      "character_operations": {
+        "substitutions": 171,
+        "deletions": 512,
+        "insertions": 77
+      },
+      "word_operations": {
+        "substitutions": 303,
+        "deletions": 161,
+        "insertions": 24
+      }
+    },
+    "normalized_join_waw": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.683153013910355,
+      "wer_percent": 27.713815789473685,
+      "exact_text_percent": 30.16759776536313,
+      "character_operations": {
+        "substitutions": 171,
+        "deletions": 512,
+        "insertions": 77
+      },
+      "word_operations": {
+        "substitutions": 245,
+        "deletions": 77,
+        "insertions": 15
+      }
+    }
+  },
+  "test_beam10": {
+    "raw": {
+      "amounts_evaluated": 598,
+      "cer_percent": 5.0113581606663455,
+      "wer_percent": 81.65330529635958,
+      "exact_text_percent": 0.0,
+      "character_operations": {
+        "substitutions": 130,
+        "deletions": 438,
+        "insertions": 160
+      },
+      "word_operations": {
+        "substitutions": 2203,
+        "deletions": 4010,
+        "insertions": 0
+      }
+    },
+    "normalized": {
+      "amounts_evaluated": 598,
+      "cer_percent": 4.903653567235306,
+      "wer_percent": 58.70551290997906,
+      "exact_text_percent": 7.5250836120401345,
+      "character_operations": {
+        "substitutions": 130,
+        "deletions": 405,
+        "insertions": 175
+      },
+      "word_operations": {
+        "substitutions": 1220,
+        "deletions": 2139,
+        "insertions": 6
+      }
+    },
+    "normalized_join_waw": {
+      "amounts_evaluated": 598,
+      "cer_percent": 4.903653567235306,
+      "wer_percent": 52.82535932270132,
+      "exact_text_percent": 7.5250836120401345,
+      "character_operations": {
+        "substitutions": 130,
+        "deletions": 405,
+        "insertions": 175
+      },
+      "word_operations": {
+        "substitutions": 1175,
+        "deletions": 1503,
+        "insertions": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,767 @@
+[
+  {
+    "epoch": 1,
+    "global_step": 90,
+    "train_loss": 3.4839375226103626,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 100.0,
+      "wer_percent": 100.0,
+      "exact_text_percent": 0.0,
+      "char_errors": 5176,
+      "char_reference_count": 5176,
+      "word_errors": 1311,
+      "word_reference_count": 1311,
+      "loss": 2.7730595679256504
+    }
+  },
+  {
+    "epoch": 2,
+    "global_step": 180,
+    "train_loss": 2.677386442820231,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 94.30061823802164,
+      "wer_percent": 100.0,
+      "exact_text_percent": 0.0,
+      "char_errors": 4881,
+      "char_reference_count": 5176,
+      "word_errors": 1311,
+      "word_reference_count": 1311,
+      "loss": 2.5606259100929987
+    }
+  },
+  {
+    "epoch": 3,
+    "global_step": 270,
+    "train_loss": 2.4960939717226003,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 88.15687789799073,
+      "wer_percent": 100.0,
+      "exact_text_percent": 0.0,
+      "char_errors": 4563,
+      "char_reference_count": 5176,
+      "word_errors": 1311,
+      "word_reference_count": 1311,
+      "loss": 2.382462168539037
+    }
+  },
+  {
+    "epoch": 4,
+    "global_step": 360,
+    "train_loss": 2.306777912361615,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 85.7225656877898,
+      "wer_percent": 99.31350114416476,
+      "exact_text_percent": 0.0,
+      "char_errors": 4437,
+      "char_reference_count": 5176,
+      "word_errors": 1302,
+      "word_reference_count": 1311,
+      "loss": 2.1881275070446162
+    }
+  },
+  {
+    "epoch": 5,
+    "global_step": 450,
+    "train_loss": 2.0405349544450346,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 91.49922720247295,
+      "wer_percent": 99.92372234935164,
+      "exact_text_percent": 0.0,
+      "char_errors": 4736,
+      "char_reference_count": 5176,
+      "word_errors": 1310,
+      "word_reference_count": 1311,
+      "loss": 2.8933287918900645
+    }
+  },
+  {
+    "epoch": 6,
+    "global_step": 540,
+    "train_loss": 1.7507428535226346,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 62.92503863987635,
+      "wer_percent": 92.90617848970251,
+      "exact_text_percent": 0.0,
+      "char_errors": 3257,
+      "char_reference_count": 5176,
+      "word_errors": 1218,
+      "word_reference_count": 1311,
+      "loss": 1.6871610413716491
+    }
+  },
+  {
+    "epoch": 7,
+    "global_step": 630,
+    "train_loss": 1.5048484141085328,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 56.29829984544049,
+      "wer_percent": 90.54157131960335,
+      "exact_text_percent": 0.0,
+      "char_errors": 2914,
+      "char_reference_count": 5176,
+      "word_errors": 1187,
+      "word_reference_count": 1311,
+      "loss": 1.4367844845329583
+    }
+  },
+  {
+    "epoch": 8,
+    "global_step": 720,
+    "train_loss": 1.2931341209999319,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 52.530911901081915,
+      "wer_percent": 87.49046529366895,
+      "exact_text_percent": 0.0,
+      "char_errors": 2719,
+      "char_reference_count": 5176,
+      "word_errors": 1147,
+      "word_reference_count": 1311,
+      "loss": 1.2931049576018776
+    }
+  },
+  {
+    "epoch": 9,
+    "global_step": 810,
+    "train_loss": 1.1251926341978442,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 39.47063369397218,
+      "wer_percent": 68.80244088482075,
+      "exact_text_percent": 0.0,
+      "char_errors": 2043,
+      "char_reference_count": 5176,
+      "word_errors": 902,
+      "word_reference_count": 1311,
+      "loss": 1.0570368956587168
+    }
+  },
+  {
+    "epoch": 10,
+    "global_step": 900,
+    "train_loss": 0.988861988071634,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 42.349304482225655,
+      "wer_percent": 71.47215865751335,
+      "exact_text_percent": 1.1173184357541899,
+      "char_errors": 2192,
+      "char_reference_count": 5176,
+      "word_errors": 937,
+      "word_reference_count": 1311,
+      "loss": 1.1675701118048343
+    }
+  },
+  {
+    "epoch": 11,
+    "global_step": 990,
+    "train_loss": 0.8693494469511742,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 30.81530139103555,
+      "wer_percent": 66.05644546147978,
+      "exact_text_percent": 1.1173184357541899,
+      "char_errors": 1595,
+      "char_reference_count": 5176,
+      "word_errors": 866,
+      "word_reference_count": 1311,
+      "loss": 0.917272860111471
+    }
+  },
+  {
+    "epoch": 12,
+    "global_step": 1080,
+    "train_loss": 0.7745721061356595,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 28.45826893353941,
+      "wer_percent": 59.19145690312738,
+      "exact_text_percent": 1.675977653631285,
+      "char_errors": 1473,
+      "char_reference_count": 5176,
+      "word_errors": 776,
+      "word_reference_count": 1311,
+      "loss": 0.890381167720816
+    }
+  },
+  {
+    "epoch": 13,
+    "global_step": 1170,
+    "train_loss": 0.7042018751136395,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 23.2032457496136,
+      "wer_percent": 50.9534706331045,
+      "exact_text_percent": 7.82122905027933,
+      "char_errors": 1201,
+      "char_reference_count": 5176,
+      "word_errors": 668,
+      "word_reference_count": 1311,
+      "loss": 0.7818607213443884
+    }
+  },
+  {
+    "epoch": 14,
+    "global_step": 1260,
+    "train_loss": 0.6539007483744154,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 20.556414219474497,
+      "wer_percent": 48.665141113653696,
+      "exact_text_percent": 9.497206703910614,
+      "char_errors": 1064,
+      "char_reference_count": 5176,
+      "word_errors": 638,
+      "word_reference_count": 1311,
+      "loss": 0.7617125259764368
+    }
+  },
+  {
+    "epoch": 15,
+    "global_step": 1350,
+    "train_loss": 0.6024361893910319,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 21.61901081916538,
+      "wer_percent": 48.05491990846682,
+      "exact_text_percent": 10.05586592178771,
+      "char_errors": 1119,
+      "char_reference_count": 5176,
+      "word_errors": 630,
+      "word_reference_count": 1311,
+      "loss": 0.7667541643760724
+    }
+  },
+  {
+    "epoch": 16,
+    "global_step": 1440,
+    "train_loss": 0.5530825327424442,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 19.74497681607419,
+      "wer_percent": 46.224256292906176,
+      "exact_text_percent": 12.290502793296088,
+      "char_errors": 1022,
+      "char_reference_count": 5176,
+      "word_errors": 606,
+      "word_reference_count": 1311,
+      "loss": 0.7023434868737972
+    }
+  },
+  {
+    "epoch": 17,
+    "global_step": 1530,
+    "train_loss": 0.5297750777223197,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 22.527047913446676,
+      "wer_percent": 48.81769641495042,
+      "exact_text_percent": 11.731843575418994,
+      "char_errors": 1166,
+      "char_reference_count": 5176,
+      "word_errors": 640,
+      "word_reference_count": 1311,
+      "loss": 0.8016529492825769
+    }
+  },
+  {
+    "epoch": 18,
+    "global_step": 1620,
+    "train_loss": 0.4982554368278226,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 17.13678516228748,
+      "wer_percent": 41.0373760488177,
+      "exact_text_percent": 17.877094972067038,
+      "char_errors": 887,
+      "char_reference_count": 5176,
+      "word_errors": 538,
+      "word_reference_count": 1311,
+      "loss": 0.6632529979977528
+    }
+  },
+  {
+    "epoch": 19,
+    "global_step": 1710,
+    "train_loss": 0.45333184472986965,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 18.45054095826893,
+      "wer_percent": 43.783371472158656,
+      "exact_text_percent": 18.994413407821227,
+      "char_errors": 955,
+      "char_reference_count": 5176,
+      "word_errors": 574,
+      "word_reference_count": 1311,
+      "loss": 0.6800949446981845
+    }
+  },
+  {
+    "epoch": 20,
+    "global_step": 1800,
+    "train_loss": 0.42989915137698337,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 17.078825347758887,
+      "wer_percent": 40.884820747520976,
+      "exact_text_percent": 19.553072625698324,
+      "char_errors": 884,
+      "char_reference_count": 5176,
+      "word_errors": 536,
+      "word_reference_count": 1311,
+      "loss": 0.6469982159870297
+    }
+  },
+  {
+    "epoch": 21,
+    "global_step": 1890,
+    "train_loss": 0.40766023938395396,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 17.078825347758887,
+      "wer_percent": 40.12204424103737,
+      "exact_text_percent": 22.3463687150838,
+      "char_errors": 884,
+      "char_reference_count": 5176,
+      "word_errors": 526,
+      "word_reference_count": 1311,
+      "loss": 0.6343961938299947
+    }
+  },
+  {
+    "epoch": 22,
+    "global_step": 1980,
+    "train_loss": 0.3898547014602426,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 23.84080370942813,
+      "wer_percent": 58.04729214340198,
+      "exact_text_percent": 5.58659217877095,
+      "char_errors": 1234,
+      "char_reference_count": 5176,
+      "word_errors": 761,
+      "word_reference_count": 1311,
+      "loss": 1.0757831345057354
+    }
+  },
+  {
+    "epoch": 23,
+    "global_step": 2070,
+    "train_loss": 0.40482268931151105,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 17.291344667697064,
+      "wer_percent": 44.8512585812357,
+      "exact_text_percent": 17.318435754189945,
+      "char_errors": 895,
+      "char_reference_count": 5176,
+      "word_errors": 588,
+      "word_reference_count": 1311,
+      "loss": 0.6505215489331571
+    }
+  },
+  {
+    "epoch": 24,
+    "global_step": 2160,
+    "train_loss": 0.36602272264429836,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 16.49922720247295,
+      "wer_percent": 40.12204424103737,
+      "exact_text_percent": 20.11173184357542,
+      "char_errors": 854,
+      "char_reference_count": 5176,
+      "word_errors": 526,
+      "word_reference_count": 1311,
+      "loss": 0.6011415441941949
+    }
+  },
+  {
+    "epoch": 25,
+    "global_step": 2250,
+    "train_loss": 0.3355652578070718,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.552550231839257,
+      "wer_percent": 39.66437833714721,
+      "exact_text_percent": 22.905027932960895,
+      "char_errors": 805,
+      "char_reference_count": 5176,
+      "word_errors": 520,
+      "word_reference_count": 1311,
+      "loss": 0.5928694717377924
+    }
+  },
+  {
+    "epoch": 26,
+    "global_step": 2340,
+    "train_loss": 0.3180337807043594,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.687789799072643,
+      "wer_percent": 41.26620900076278,
+      "exact_text_percent": 21.787709497206702,
+      "char_errors": 812,
+      "char_reference_count": 5176,
+      "word_errors": 541,
+      "word_reference_count": 1311,
+      "loss": 0.6566609870122132
+    }
+  },
+  {
+    "epoch": 27,
+    "global_step": 2430,
+    "train_loss": 0.3274933022110402,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.397990726429676,
+      "wer_percent": 39.130434782608695,
+      "exact_text_percent": 22.905027932960895,
+      "char_errors": 797,
+      "char_reference_count": 5176,
+      "word_errors": 513,
+      "word_reference_count": 1311,
+      "loss": 0.6026291995408148
+    }
+  },
+  {
+    "epoch": 28,
+    "global_step": 2520,
+    "train_loss": 0.3101131375931224,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 16.093508500772796,
+      "wer_percent": 40.42715484363082,
+      "exact_text_percent": 22.3463687150838,
+      "char_errors": 833,
+      "char_reference_count": 5176,
+      "word_errors": 530,
+      "word_reference_count": 1311,
+      "loss": 0.6070351668909275
+    }
+  },
+  {
+    "epoch": 29,
+    "global_step": 2610,
+    "train_loss": 0.2870647076840828,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 16.537867078825347,
+      "wer_percent": 40.274599542334094,
+      "exact_text_percent": 21.22905027932961,
+      "char_errors": 856,
+      "char_reference_count": 5176,
+      "word_errors": 528,
+      "word_reference_count": 1311,
+      "loss": 0.6345349776678245
+    }
+  },
+  {
+    "epoch": 30,
+    "global_step": 2700,
+    "train_loss": 0.26650998680865395,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.919629057187018,
+      "wer_percent": 40.96109839816934,
+      "exact_text_percent": 20.670391061452513,
+      "char_errors": 824,
+      "char_reference_count": 5176,
+      "word_errors": 537,
+      "word_reference_count": 1311,
+      "loss": 0.6278726045645815
+    }
+  },
+  {
+    "epoch": 31,
+    "global_step": 2790,
+    "train_loss": 0.25726566428229924,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.629829984544049,
+      "wer_percent": 42.63920671243326,
+      "exact_text_percent": 21.787709497206702,
+      "char_errors": 809,
+      "char_reference_count": 5176,
+      "word_errors": 559,
+      "word_reference_count": 1311,
+      "loss": 0.642692340319383
+    }
+  },
+  {
+    "epoch": 32,
+    "global_step": 2880,
+    "train_loss": 0.24209760158669716,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.127511591962906,
+      "wer_percent": 40.12204424103737,
+      "exact_text_percent": 18.994413407821227,
+      "char_errors": 783,
+      "char_reference_count": 5176,
+      "word_errors": 526,
+      "word_reference_count": 1311,
+      "loss": 0.658557659753874
+    }
+  },
+  {
+    "epoch": 33,
+    "global_step": 2970,
+    "train_loss": 0.23909125391508684,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.393353941267387,
+      "wer_percent": 37.986270022883296,
+      "exact_text_percent": 25.69832402234637,
+      "char_errors": 745,
+      "char_reference_count": 5176,
+      "word_errors": 498,
+      "word_reference_count": 1311,
+      "loss": 0.5934875678250243
+    }
+  },
+  {
+    "epoch": 34,
+    "global_step": 3060,
+    "train_loss": 0.22626247534564897,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.243431221020092,
+      "wer_percent": 38.443935926773456,
+      "exact_text_percent": 22.3463687150838,
+      "char_errors": 789,
+      "char_reference_count": 5176,
+      "word_errors": 504,
+      "word_reference_count": 1311,
+      "loss": 0.6735942352916942
+    }
+  },
+  {
+    "epoch": 35,
+    "global_step": 3150,
+    "train_loss": 0.21712814367451921,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 15.842349304482225,
+      "wer_percent": 42.79176201372998,
+      "exact_text_percent": 22.3463687150838,
+      "char_errors": 820,
+      "char_reference_count": 5176,
+      "word_errors": 561,
+      "word_reference_count": 1311,
+      "loss": 0.6655760920247552
+    }
+  },
+  {
+    "epoch": 36,
+    "global_step": 3240,
+    "train_loss": 0.22115070203773113,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.45131375579598,
+      "wer_percent": 40.274599542334094,
+      "exact_text_percent": 26.256983240223462,
+      "char_errors": 748,
+      "char_reference_count": 5176,
+      "word_errors": 528,
+      "word_reference_count": 1311,
+      "loss": 0.5985795429298998
+    }
+  },
+  {
+    "epoch": 37,
+    "global_step": 3330,
+    "train_loss": 0.20831743817703396,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.663833075734159,
+      "wer_percent": 37.29977116704806,
+      "exact_text_percent": 22.3463687150838,
+      "char_errors": 759,
+      "char_reference_count": 5176,
+      "word_errors": 489,
+      "word_reference_count": 1311,
+      "loss": 0.6712421957174493
+    }
+  },
+  {
+    "epoch": 38,
+    "global_step": 3420,
+    "train_loss": 0.20286194182911507,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.81839258114374,
+      "wer_percent": 37.376048817696415,
+      "exact_text_percent": 24.581005586592177,
+      "char_errors": 767,
+      "char_reference_count": 5176,
+      "word_errors": 490,
+      "word_reference_count": 1311,
+      "loss": 0.6735697209668559
+    }
+  },
+  {
+    "epoch": 39,
+    "global_step": 3510,
+    "train_loss": 0.20597220109958275,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 13.852395672333847,
+      "wer_percent": 37.604881769641494,
+      "exact_text_percent": 24.581005586592177,
+      "char_errors": 717,
+      "char_reference_count": 5176,
+      "word_errors": 493,
+      "word_reference_count": 1311,
+      "loss": 0.6180592731224092
+    }
+  },
+  {
+    "epoch": 40,
+    "global_step": 3600,
+    "train_loss": 0.20543694546242722,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.837712519319938,
+      "wer_percent": 40.884820747520976,
+      "exact_text_percent": 24.022346368715084,
+      "char_errors": 768,
+      "char_reference_count": 5176,
+      "word_errors": 536,
+      "word_reference_count": 1311,
+      "loss": 0.6462837570872386
+    }
+  },
+  {
+    "epoch": 41,
+    "global_step": 3690,
+    "train_loss": 0.19574847846638924,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.084234930448222,
+      "wer_percent": 42.79176201372998,
+      "exact_text_percent": 20.11173184357542,
+      "char_errors": 729,
+      "char_reference_count": 5176,
+      "word_errors": 561,
+      "word_reference_count": 1311,
+      "loss": 0.6485498975442109
+    }
+  },
+  {
+    "epoch": 42,
+    "global_step": 3780,
+    "train_loss": 0.16944690345048236,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 13.562596599690883,
+      "wer_percent": 38.36765827612509,
+      "exact_text_percent": 22.905027932960895,
+      "char_errors": 702,
+      "char_reference_count": 5176,
+      "word_errors": 503,
+      "word_reference_count": 1311,
+      "loss": 0.6268085469413736
+    }
+  },
+  {
+    "epoch": 43,
+    "global_step": 3870,
+    "train_loss": 0.14126167513158808,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 13.388717156105102,
+      "wer_percent": 40.12204424103737,
+      "exact_text_percent": 25.139664804469277,
+      "char_errors": 693,
+      "char_reference_count": 5176,
+      "word_errors": 526,
+      "word_reference_count": 1311,
+      "loss": 0.6258925650705839
+    }
+  },
+  {
+    "epoch": 44,
+    "global_step": 3960,
+    "train_loss": 0.13179830170604362,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 13.968315301391035,
+      "wer_percent": 39.74065598779558,
+      "exact_text_percent": 24.022346368715084,
+      "char_errors": 723,
+      "char_reference_count": 5176,
+      "word_errors": 521,
+      "word_reference_count": 1311,
+      "loss": 0.6519473851060068
+    }
+  },
+  {
+    "epoch": 45,
+    "global_step": 4050,
+    "train_loss": 0.13446639749516293,
+    "lr": 0.0001,
+    "val": {
+      "amounts_evaluated": 179,
+      "cer_percent": 14.180834621329211,
+      "wer_percent": 39.130434782608695,
+      "exact_text_percent": 23.463687150837988,
+      "char_errors": 734,
+      "char_reference_count": 5176,
+      "word_errors": 513,
+      "word_reference_count": 1311,
+      "loss": 0.6720957298185573
+    }
+  }
+]

@@ -1,0 +1,8 @@
+-r requirements-part-b.txt
+transformers
+accelerate
+safetensors
+sentencepiece
+protobuf
+huggingface_hub
+

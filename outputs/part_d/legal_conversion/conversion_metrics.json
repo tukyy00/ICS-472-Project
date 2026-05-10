@@ -1,0 +1,65 @@
+{
+  "direct": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 2,
+    "deletions": 151,
+    "substitutions": 150,
+    "digit_accuracy_percent": 88.33718244803696,
+    "exact_amount_percent": 71.73913043478261,
+    "one_error_amount_percent": 15.88628762541806,
+    "two_or_more_errors_amount_percent": 12.37458193979933,
+    "unresolved_count": 16
+  },
+  "edit_distance": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 5,
+    "deletions": 86,
+    "substitutions": 140,
+    "digit_accuracy_percent": 91.10854503464203,
+    "exact_amount_percent": 78.26086956521739,
+    "one_error_amount_percent": 11.20401337792642,
+    "two_or_more_errors_amount_percent": 10.535117056856187,
+    "unresolved_count": 4
+  },
+  "edit_distance_split": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 5,
+    "deletions": 84,
+    "substitutions": 140,
+    "digit_accuracy_percent": 91.1855273287144,
+    "exact_amount_percent": 78.42809364548495,
+    "one_error_amount_percent": 11.20401337792642,
+    "two_or_more_errors_amount_percent": 10.367892976588628,
+    "unresolved_count": 4
+  },
+  "fused": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 3,
+    "deletions": 86,
+    "substitutions": 119,
+    "digit_accuracy_percent": 91.99384141647421,
+    "exact_amount_percent": 78.42809364548495,
+    "one_error_amount_percent": 13.210702341137123,
+    "two_or_more_errors_amount_percent": 8.361204013377927,
+    "unresolved_count": 4
+  },
+  "fusion_delta": {
+    "improved_count": 2,
+    "degraded_count": 2,
+    "unchanged_count": 594
+  },
+  "join": {
+    "part_b_rows": 600,
+    "part_c_rows": 598,
+    "overlap_rows": 598,
+    "part_b_only": [
+      "ac03157",
+      "ac03397"
+    ],
+    "part_c_only": []
+  }
+}

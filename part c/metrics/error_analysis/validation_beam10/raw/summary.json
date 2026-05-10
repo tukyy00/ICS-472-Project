@@ -1,0 +1,529 @@
+{
+  "mode": "raw",
+  "metrics": {
+    "amounts_evaluated": 179,
+    "cer_percent": 14.683153013910355,
+    "wer_percent": 37.2234935163997,
+    "exact_text_percent": 24.581005586592177,
+    "char_errors": 760,
+    "char_reference_count": 5176,
+    "word_errors": 488,
+    "word_reference_count": 1311
+  },
+  "character_operations": {
+    "substitutions": 171,
+    "deletions": 512,
+    "insertions": 77,
+    "substitution_share_of_char_errors": 22.5,
+    "deletion_share_of_char_errors": 67.36842105263158,
+    "insertion_share_of_char_errors": 10.131578947368421
+  },
+  "word_operations": {
+    "substitutions": 303,
+    "deletions": 161,
+    "insertions": 24,
+    "substitution_share_of_word_errors": 62.090163934426236,
+    "deletion_share_of_word_errors": 32.99180327868852,
+    "insertion_share_of_word_errors": 4.918032786885246
+  },
+  "top_character_substitutions": [
+    {
+      "reference": "ع",
+      "prediction": "ت",
+      "count": 7
+    },
+    {
+      "reference": "ط",
+      "prediction": "ر",
+      "count": 4
+    },
+    {
+      "reference": "ه",
+      "prediction": "ل",
+      "count": 4
+    },
+    {
+      "reference": "ق",
+      "prediction": "ي",
+      "count": 3
+    },
+    {
+      "reference": "ي",
+      "prediction": "ا",
+      "count": 3
+    },
+    {
+      "reference": "ن",
+      "prediction": "ه",
+      "count": 3
+    },
+    {
+      "reference": "ل",
+      "prediction": "ي",
+      "count": 3
+    },
+    {
+      "reference": "س",
+      "prediction": "ا",
+      "count": 3
+    },
+    {
+      "reference": "ه",
+      "prediction": "ا",
+      "count": 3
+    },
+    {
+      "reference": "ت",
+      "prediction": "ع",
+      "count": 3
+    },
+    {
+      "reference": "ه",
+      "prediction": "ي",
+      "count": 3
+    },
+    {
+      "reference": "ع",
+      "prediction": "ا",
+      "count": 2
+    },
+    {
+      "reference": "ه",
+      "prediction": "ف",
+      "count": 2
+    },
+    {
+      "reference": "ن",
+      "prediction": "ق",
+      "count": 2
+    },
+    {
+      "reference": "م",
+      "prediction": "س",
+      "count": 2
+    },
+    {
+      "reference": "ف",
+      "prediction": "ا",
+      "count": 2
+    },
+    {
+      "reference": "ع",
+      "prediction": "ه",
+      "count": 2
+    },
+    {
+      "reference": "م",
+      "prediction": "ل",
+      "count": 2
+    },
+    {
+      "reference": "ن",
+      "prediction": "ث",
+      "count": 2
+    },
+    {
+      "reference": "م",
+      "prediction": "ط",
+      "count": 2
+    }
+  ],
+  "top_character_deletions": [
+    {
+      "value": "ا",
+      "count": 72
+    },
+    {
+      "value": "و",
+      "count": 54
+    },
+    {
+      "value": "ي",
+      "count": 44
+    },
+    {
+      "value": "ل",
+      "count": 42
+    },
+    {
+      "value": "م",
+      "count": 31
+    },
+    {
+      "value": "ه",
+      "count": 31
+    },
+    {
+      "value": "ر",
+      "count": 29
+    },
+    {
+      "value": "ن",
+      "count": 29
+    },
+    {
+      "value": "ف",
+      "count": 20
+    },
+    {
+      "value": "ع",
+      "count": 18
+    },
+    {
+      "value": "س",
+      "count": 16
+    },
+    {
+      "value": "ت",
+      "count": 16
+    },
+    {
+      "value": "خ",
+      "count": 15
+    },
+    {
+      "value": "غ",
+      "count": 14
+    },
+    {
+      "value": "ق",
+      "count": 13
+    },
+    {
+      "value": "ط",
+      "count": 13
+    },
+    {
+      "value": "ث",
+      "count": 12
+    },
+    {
+      "value": "ب",
+      "count": 11
+    },
+    {
+      "value": "ش",
+      "count": 9
+    },
+    {
+      "value": "1",
+      "count": 4
+    }
+  ],
+  "top_character_insertions": [
+    {
+      "value": "ا",
+      "count": 12
+    },
+    {
+      "value": "ه",
+      "count": 7
+    },
+    {
+      "value": "و",
+      "count": 7
+    },
+    {
+      "value": "ف",
+      "count": 7
+    },
+    {
+      "value": "ق",
+      "count": 7
+    },
+    {
+      "value": "ث",
+      "count": 6
+    },
+    {
+      "value": "ل",
+      "count": 5
+    },
+    {
+      "value": "ي",
+      "count": 5
+    },
+    {
+      "value": "ر",
+      "count": 5
+    },
+    {
+      "value": "ط",
+      "count": 5
+    },
+    {
+      "value": "ن",
+      "count": 3
+    },
+    {
+      "value": "ب",
+      "count": 2
+    },
+    {
+      "value": "م",
+      "count": 2
+    },
+    {
+      "value": "غ",
+      "count": 1
+    },
+    {
+      "value": "خ",
+      "count": 1
+    },
+    {
+      "value": "ت",
+      "count": 1
+    },
+    {
+      "value": "س",
+      "count": 1
+    }
+  ],
+  "top_word_substitutions": [
+    {
+      "reference": "ستون",
+      "prediction": "وستون",
+      "count": 6
+    },
+    {
+      "reference": "غير",
+      "prediction": "ير",
+      "count": 5
+    },
+    {
+      "reference": "ريالا",
+      "prediction": "ريال",
+      "count": 5
+    },
+    {
+      "reference": "عشرون",
+      "prediction": "وعشرون",
+      "count": 5
+    },
+    {
+      "reference": "تسعون",
+      "prediction": "وتسعون",
+      "count": 4
+    },
+    {
+      "reference": "و",
+      "prediction": "وستمايه",
+      "count": 3
+    },
+    {
+      "reference": "الفا",
+      "prediction": "الف",
+      "count": 3
+    },
+    {
+      "reference": "ومايه",
+      "prediction": "مايه",
+      "count": 2
+    },
+    {
+      "reference": "وقدره",
+      "prediction": "قر",
+      "count": 2
+    },
+    {
+      "reference": "وعشرون",
+      "prediction": "وعشر",
+      "count": 2
+    },
+    {
+      "reference": "خمسون",
+      "prediction": "وخمسون",
+      "count": 2
+    },
+    {
+      "reference": "وواحد",
+      "prediction": "واحد",
+      "count": 2
+    },
+    {
+      "reference": "الاف",
+      "prediction": "الف",
+      "count": 2
+    },
+    {
+      "reference": "وعشرون",
+      "prediction": "وعون",
+      "count": 2
+    },
+    {
+      "reference": "وتسعون",
+      "prediction": "وسعون",
+      "count": 2
+    },
+    {
+      "reference": "الف",
+      "prediction": "الاف",
+      "count": 2
+    },
+    {
+      "reference": "خمسه",
+      "prediction": "فقط",
+      "count": 2
+    },
+    {
+      "reference": "و",
+      "prediction": "وخمسه",
+      "count": 2
+    },
+    {
+      "reference": "فقط",
+      "prediction": "قط",
+      "count": 2
+    },
+    {
+      "reference": "خمسه",
+      "prediction": "ومايه",
+      "count": 2
+    }
+  ],
+  "top_word_deletions": [
+    {
+      "value": "و",
+      "count": 57
+    },
+    {
+      "value": "فقط",
+      "count": 15
+    },
+    {
+      "value": "لا",
+      "count": 11
+    },
+    {
+      "value": "مايه",
+      "count": 6
+    },
+    {
+      "value": "ستمايه",
+      "count": 5
+    },
+    {
+      "value": "ريال",
+      "count": 5
+    },
+    {
+      "value": "الف",
+      "count": 3
+    },
+    {
+      "value": "غير",
+      "count": 3
+    },
+    {
+      "value": "سبعمايه",
+      "count": 3
+    },
+    {
+      "value": "خمسمايه",
+      "count": 3
+    },
+    {
+      "value": "ثلاثه",
+      "count": 3
+    },
+    {
+      "value": "عشر",
+      "count": 2
+    },
+    {
+      "value": "خمسه",
+      "count": 2
+    },
+    {
+      "value": "الاف",
+      "count": 2
+    },
+    {
+      "value": "وسبعمايه",
+      "count": 2
+    },
+    {
+      "value": "وتسعون",
+      "count": 2
+    },
+    {
+      "value": "وخمسمايه",
+      "count": 1
+    },
+    {
+      "value": "ثمانمايه",
+      "count": 1
+    },
+    {
+      "value": "47",
+      "count": 1
+    },
+    {
+      "value": "اثنان",
+      "count": 1
+    }
+  ],
+  "top_word_insertions": [
+    {
+      "value": "فقط",
+      "count": 5
+    },
+    {
+      "value": "و",
+      "count": 4
+    },
+    {
+      "value": "لا",
+      "count": 3
+    },
+    {
+      "value": "تسه",
+      "count": 1
+    },
+    {
+      "value": "وستمايه",
+      "count": 1
+    },
+    {
+      "value": "غير",
+      "count": 1
+    },
+    {
+      "value": "واثنين",
+      "count": 1
+    },
+    {
+      "value": "عشرالف",
+      "count": 1
+    },
+    {
+      "value": "ريال",
+      "count": 1
+    },
+    {
+      "value": "ال",
+      "count": 1
+    },
+    {
+      "value": "الفعيه",
+      "count": 1
+    },
+    {
+      "value": "اثنان",
+      "count": 1
+    },
+    {
+      "value": "مي",
+      "count": 1
+    },
+    {
+      "value": "وسبعون",
+      "count": 1
+    },
+    {
+      "value": "ياتا",
+      "count": 1
+    }
+  ]
+}

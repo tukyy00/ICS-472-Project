@@ -1,0 +1,40 @@
+# Python virtual environments
+.venv/
+.venv_part_b/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large model weights (binary, too large for git)
+best.pt
+outputs/part_b/checkpoints/best_crnn_ctc.pt
+part c/model/best_legal_crnn_ctc.pt
+
+# Raw image crops (large dataset, not appropriate for git)
+outputs/part_b/crops/
+
+# Ultralytics config cache (auto-generated)
+outputs/part_b/ultralytics_config/
+
+# Misc
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+
+# Large data folders not part of submissions
+CheckImages/
+CheckImages-Test/
+CheckAnnotations-Test/
+NLP-Project-20260508T175630Z-3-001/
+Ultralytics/
+tests/
+report/
+
+# Smoke test outputs (intermediate/dev runs)
+outputs/part_b_smoke/
+outputs/part_b_smoke2/
+outputs/part_c_smoke/

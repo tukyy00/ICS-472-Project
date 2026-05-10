@@ -1,0 +1,23 @@
+{
+  "manifest": "outputs\\part_c\\train_legal_manifest.csv",
+  "arch": "paper15",
+  "unit": "char",
+  "label_mode": "canonical",
+  "image_height": 140,
+  "image_width": 1340,
+  "exact_resize": true,
+  "flip_image": true,
+  "normalize_minus_one_one": true,
+  "rtl": false,
+  "lstm_hidden": 384,
+  "lstm_layers": 2,
+  "dropout": 0.1,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "lr_decay_steps": 10000,
+  "lr_decay_gamma": 0.9,
+  "checkpoint_metric": "loss",
+  "patience": 20,
+  "seed": 42,
+  "num_classes": 38
+}

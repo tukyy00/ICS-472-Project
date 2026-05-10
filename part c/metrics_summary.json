@@ -1,0 +1,65 @@
+{
+  "model": {
+    "name": "part_c_paper15_legal_crnn",
+    "architecture": "paper15 CNN + 2-layer BiLSTM + CTC",
+    "checkpoint": "best_legal_crnn_ctc.pt",
+    "checkpoint_epoch": 25,
+    "training_reached_epoch": 45,
+    "checkpoint_metric": "validation_loss",
+    "label_mode": "canonical",
+    "image_height": 140,
+    "image_width": 1340,
+    "sequence_length": 96,
+    "num_classes": 38,
+    "preprocessing": {
+      "exact_resize": true,
+      "flip_image": true,
+      "normalize_minus_one_one": true
+    }
+  },
+  "validation_greedy": {
+    "amounts_evaluated": 179,
+    "cer_percent": 15.552550231839257,
+    "wer_percent": 39.66437833714721,
+    "exact_text_percent": 22.905027932960895
+  },
+  "validation_beam10": {
+    "amounts_evaluated": 179,
+    "cer_percent": 14.683153013910355,
+    "wer_percent": 37.2234935163997,
+    "exact_text_percent": 24.581005586592177
+  },
+  "provided_test_greedy_raw": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.355544847525297,
+    "wer_percent": 81.65330529635958,
+    "exact_text_percent": 0.0
+  },
+  "provided_test_greedy_normalized": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.355544847525297,
+    "wer_percent": 54.83096249769075,
+    "exact_text_percent": 9.698996655518394
+  },
+  "provided_test_beam10_raw": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.0113581606663455,
+    "wer_percent": 81.65330529635958,
+    "exact_text_percent": 0.0
+  },
+  "provided_test_beam10_normalized": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.0113581606663455,
+    "wer_percent": 54.97875484943654,
+    "exact_text_percent": 10.033444816053512
+  },
+  "baseline_comparison": {
+    "old_best_validation_wer_percent": 40.19832189168574,
+    "new_best_validation_wer_percent": 37.2234935163997,
+    "old_best_test_normalized_wer_percent": 52.152226122298174,
+    "new_best_test_normalized_wer_percent": 54.83096249769075,
+    "old_best_test_cer_percent": 5.7272664693329665,
+    "new_best_test_cer_percent": 5.0113581606663455
+  },
+  "note": "Training was interrupted after epoch 45. The saved checkpoint is epoch 25 because checkpointing selected lowest validation loss. Beam search gives the best validation WER; provided test WER remains distorted by tokenized test labels."
+}
