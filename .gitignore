@@ -41,3 +41,12 @@ yolo_dataset/
 outputs/part_b_smoke/
 outputs/part_b_smoke2/
 outputs/part_c_smoke/
+
+#raw report files
+project_report.docx
+project_report.aux
+project_report.log
+project_report.out
+project_report.tex
+project_report.pdf
+Methodology.docx
