@@ -1,0 +1,2 @@
+check_id,image_path,crop_path,label,confidence,x1,y1,x2,y2,status
+ac00048,CheckImages\ac00048.tif,,,,,,,,missed

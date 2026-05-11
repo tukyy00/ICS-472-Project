@@ -1,0 +1,11 @@
+{
+  "amounts_evaluated": 600,
+  "total_digits": 2606,
+  "insertions": 17,
+  "deletions": 51,
+  "substitutions": 40,
+  "digit_accuracy_percent": 95.85571757482732,
+  "exact_amount_percent": 88.33333333333333,
+  "one_error_amount_percent": 8.333333333333332,
+  "two_or_more_errors_amount_percent": 3.3333333333333335
+}

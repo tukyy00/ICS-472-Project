@@ -1,0 +1,160 @@
+{
+  "metrics": {
+    "amounts_evaluated": 600,
+    "total_digits": 2606,
+    "insertions": 24,
+    "deletions": 26,
+    "substitutions": 22,
+    "digit_accuracy_percent": 97.23714504988487,
+    "exact_amount_percent": 90.33333333333333,
+    "one_error_amount_percent": 8.333333333333332,
+    "two_or_more_errors_amount_percent": 1.3333333333333335
+  },
+  "operation_share_of_digit_errors": {
+    "substitutions": 30.555555555555557,
+    "deletions": 36.11111111111111,
+    "insertions": 33.33333333333333
+  },
+  "top_digit_substitutions": [
+    {
+      "reference": "1",
+      "prediction": "6",
+      "count": 4
+    },
+    {
+      "reference": "1",
+      "prediction": "7",
+      "count": 2
+    },
+    {
+      "reference": "2",
+      "prediction": "3",
+      "count": 2
+    },
+    {
+      "reference": "2",
+      "prediction": "4",
+      "count": 2
+    },
+    {
+      "reference": "2",
+      "prediction": "0",
+      "count": 1
+    },
+    {
+      "reference": "4",
+      "prediction": "1",
+      "count": 1
+    },
+    {
+      "reference": "5",
+      "prediction": "2",
+      "count": 1
+    },
+    {
+      "reference": "0",
+      "prediction": "1",
+      "count": 1
+    },
+    {
+      "reference": "1",
+      "prediction": "4",
+      "count": 1
+    },
+    {
+      "reference": "9",
+      "prediction": "6",
+      "count": 1
+    },
+    {
+      "reference": "1",
+      "prediction": "2",
+      "count": 1
+    },
+    {
+      "reference": "2",
+      "prediction": "5",
+      "count": 1
+    },
+    {
+      "reference": "0",
+      "prediction": "7",
+      "count": 1
+    },
+    {
+      "reference": "5",
+      "prediction": "9",
+      "count": 1
+    },
+    {
+      "reference": "0",
+      "prediction": "9",
+      "count": 1
+    },
+    {
+      "reference": "1",
+      "prediction": "3",
+      "count": 1
+    }
+  ],
+  "top_digit_deletions": [
+    {
+      "value": "0",
+      "count": 20
+    },
+    {
+      "value": "1",
+      "count": 2
+    },
+    {
+      "value": "2",
+      "count": 2
+    },
+    {
+      "value": "8",
+      "count": 1
+    },
+    {
+      "value": "5",
+      "count": 1
+    }
+  ],
+  "top_digit_insertions": [
+    {
+      "value": "0",
+      "count": 7
+    },
+    {
+      "value": "1",
+      "count": 6
+    },
+    {
+      "value": "4",
+      "count": 2
+    },
+    {
+      "value": "5",
+      "count": 2
+    },
+    {
+      "value": "8",
+      "count": 2
+    },
+    {
+      "value": "2",
+      "count": 2
+    },
+    {
+      "value": "9",
+      "count": 1
+    },
+    {
+      "value": "6",
+      "count": 1
+    },
+    {
+      "value": "7",
+      "count": 1
+    }
+  ]
+}
