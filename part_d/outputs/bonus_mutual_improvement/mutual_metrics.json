@@ -1,0 +1,76 @@
+{
+  "rule": "Use legal to correct courtesy only when all legal conversion stages agree and the legal value restores exactly one missing zero.",
+  "baseline_courtesy": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 24,
+    "deletions": 26,
+    "substitutions": 22,
+    "digit_accuracy_percent": 97.22863741339492,
+    "exact_amount_count": 540,
+    "exact_amount_percent": 90.3010033444816,
+    "one_error_amount_percent": 8.361204013377927,
+    "two_or_more_errors_amount_percent": 1.3377926421404682,
+    "unresolved_count": 0
+  },
+  "baseline_legal_edit_distance_split": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 5,
+    "deletions": 84,
+    "substitutions": 140,
+    "digit_accuracy_percent": 91.1855273287144,
+    "exact_amount_count": 469,
+    "exact_amount_percent": 78.42809364548495,
+    "one_error_amount_percent": 11.20401337792642,
+    "two_or_more_errors_amount_percent": 10.367892976588628,
+    "unresolved_count": 4
+  },
+  "mutual_improved_amount": {
+    "amounts_evaluated": 598,
+    "total_digits": 2598,
+    "insertions": 24,
+    "deletions": 15,
+    "substitutions": 22,
+    "digit_accuracy_percent": 97.65204003079292,
+    "exact_amount_count": 551,
+    "exact_amount_percent": 92.14046822742475,
+    "one_error_amount_percent": 6.521739130434782,
+    "two_or_more_errors_amount_percent": 1.3377926421404682,
+    "unresolved_count": 0
+  },
+  "delta_vs_courtesy": {
+    "changed_count": 11,
+    "improved_count": 11,
+    "degraded_count": 0,
+    "net_exact_gain": 11,
+    "newly_correct_check_ids": [
+      "ac03001",
+      "ac03046",
+      "ac03204",
+      "ac03227",
+      "ac03238",
+      "ac03693",
+      "ac03866",
+      "ac03888",
+      "ac04022",
+      "ac04023",
+      "ac04185"
+    ],
+    "newly_wrong_check_ids": []
+  },
+  "delta_vs_legal_split": {
+    "net_exact_gain": 82,
+    "newly_correct_count": 115,
+    "newly_wrong_count": 33
+  },
+  "decisions": {
+    "verified_agreement": 426,
+    "corrected_by_legal_consensus": 11,
+    "kept_courtesy": 161
+  },
+  "correction_actions": {
+    "unchanged": 587,
+    "insert_missing_zero": 11
+  }
+}

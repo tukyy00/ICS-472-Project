@@ -1,0 +1,118 @@
+{
+  "inputs": {
+    "part_c_predictions": "C:\\Users\\K\\Desktop\\ics 472\\proj\\part_d_self_contained\\data\\part_c_legal_predictions.csv",
+    "courtesy_predictions": "C:\\Users\\K\\Desktop\\ics 472\\proj\\part_d_self_contained\\data\\part_b_courtesy_predictions.csv",
+    "part_c_rows": 598,
+    "courtesy_rows": 600,
+    "overlap_rows": 598,
+    "part_c_only": [],
+    "courtesy_only": [
+      "ac03157",
+      "ac03397"
+    ]
+  },
+  "original_part_c_text_metrics": {
+    "raw": {
+      "amounts_evaluated": 598,
+      "cer_percent": 5.0113581606663455,
+      "wer_percent": 81.65330529635958,
+      "exact_text_percent": 0.0,
+      "char_errors": 728,
+      "char_reference_count": 14527,
+      "word_errors": 6213,
+      "word_reference_count": 7609
+    },
+    "normalized": {
+      "amounts_evaluated": 598,
+      "cer_percent": 5.0113581606663455,
+      "wer_percent": 54.97875484943654,
+      "exact_text_percent": 10.033444816053512,
+      "char_errors": 728,
+      "char_reference_count": 14527,
+      "word_errors": 2976,
+      "word_reference_count": 5413
+    }
+  },
+  "converted_part_c_prediction": {
+    "direct": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 28.26086956521739,
+      "exact_amount_percent": 71.73913043478261,
+      "digit_cer_percent": 11.662817551963048,
+      "digit_accuracy_percent": 88.33718244803696,
+      "amount_errors": 169,
+      "unresolved_count": 16,
+      "digit_reference_count": 2598,
+      "digit_insertions": 2,
+      "digit_deletions": 151,
+      "digit_substitutions": 150
+    },
+    "edit_distance": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 21.73913043478261,
+      "exact_amount_percent": 78.26086956521739,
+      "digit_cer_percent": 8.891454965357967,
+      "digit_accuracy_percent": 91.10854503464203,
+      "amount_errors": 130,
+      "unresolved_count": 4,
+      "digit_reference_count": 2598,
+      "digit_insertions": 5,
+      "digit_deletions": 86,
+      "digit_substitutions": 140
+    },
+    "edit_distance_split": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 21.57190635451505,
+      "exact_amount_percent": 78.42809364548495,
+      "digit_cer_percent": 8.814472671285605,
+      "digit_accuracy_percent": 91.1855273287144,
+      "amount_errors": 129,
+      "unresolved_count": 4,
+      "digit_reference_count": 2598,
+      "digit_insertions": 5,
+      "digit_deletions": 84,
+      "digit_substitutions": 140
+    }
+  },
+  "converted_part_c_label_check": {
+    "direct": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 80.60200668896321,
+      "exact_amount_percent": 19.39799331103679,
+      "digit_cer_percent": 40.45419553502694,
+      "digit_accuracy_percent": 59.54580446497306,
+      "amount_errors": 482,
+      "unresolved_count": 62,
+      "digit_reference_count": 2598,
+      "digit_insertions": 0,
+      "digit_deletions": 401,
+      "digit_substitutions": 650
+    },
+    "edit_distance": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 77.92642140468227,
+      "exact_amount_percent": 22.073578595317723,
+      "digit_cer_percent": 42.45573518090839,
+      "digit_accuracy_percent": 57.54426481909161,
+      "amount_errors": 466,
+      "unresolved_count": 2,
+      "digit_reference_count": 2598,
+      "digit_insertions": 5,
+      "digit_deletions": 227,
+      "digit_substitutions": 871
+    },
+    "edit_distance_split": {
+      "amounts_evaluated": 598,
+      "converted_wer_percent": 77.92642140468227,
+      "exact_amount_percent": 22.073578595317723,
+      "digit_cer_percent": 42.45573518090839,
+      "digit_accuracy_percent": 57.54426481909161,
+      "amount_errors": 466,
+      "unresolved_count": 2,
+      "digit_reference_count": 2598,
+      "digit_insertions": 5,
+      "digit_deletions": 227,
+      "digit_substitutions": 871
+    }
+  }
+}

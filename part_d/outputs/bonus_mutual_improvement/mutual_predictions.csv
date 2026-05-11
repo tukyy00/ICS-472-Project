@@ -1,0 +1,599 @@
+check_id,courtesy_true,courtesy_prediction,legal_direct_value,legal_edit_distance_value,legal_edit_distance_split_value,legal_consensus_value,mutual_amount,improved_courtesy_amount,improved_legal_amount,decision,correction_action,changed_from_courtesy,courtesy_was_correct,legal_split_was_correct,mutual_is_correct,part_c_prediction_text
+ac03000,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال فقط لا غير
+ac03001,5000,500,5000,5000,5000,5000,5000,5000,5000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,خمس لاف ريال فقط
+ac03003,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,خمسه الاف ريال لا غير
+ac03005,1733587,1733587,17000,17395,17395,,1733587,1733587,1733587,kept_courtesy,unchanged,false,true,false,true,فقط سبعه عشر الف وثاثماه ومسه وثاثون ريال وسون ريل لا غير
+ac03006,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac03007,12000,12000,1000,2000,2000,,12000,12000,12000,kept_courtesy,unchanged,false,true,false,true,اثن الف ريال قط لا غير
+ac03008,450,450,450,450,450,450,450,450,450,verified_agreement,unchanged,false,true,true,true,فقط اربعمايه وخمسون ريال لا غير
+ac03014,2800,2800,2800,2800,2800,2800,2800,2800,2800,verified_agreement,unchanged,false,true,true,true,فقط الفان وثمانمايه ريال لا غير
+ac03015,25000,25000,25000,25000,25000,25000,25000,25000,25000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وعشرون الف ريال لا غير
+ac03020,3605,3605,3605,3605,3605,3605,3605,3605,3605,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف وستمايه وخمسه ريال لا غير
+ac03021,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الف ريال فقط لا غير
+ac03023,5000,5000,5000,6000,6000,,5000,5000,5000,kept_courtesy,unchanged,false,true,false,true,وقده خمسه الاف ريال لا غير
+ac03025,1475,1475,1475,1475,1475,1475,1475,1475,1475,verified_agreement,unchanged,false,true,true,true,الف واربعمايه وخمسه وسبعون ريال لا غير
+ac03027,95000,95000,95000,95000,95000,95000,95000,95000,95000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وتسعون الف ريال لا غير
+ac03035,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,فقط خمسمايه ريال لا غير
+ac03040,28000,28000,28000,28000,28000,28000,28000,28000,28000,verified_agreement,unchanged,false,true,true,true,ثمانيه وعشرون الف ريال لا غير
+ac03041,12500,12500,12500,12500,12500,12500,12500,12500,12500,verified_agreement,unchanged,false,true,true,true,اثني عشر الف وخمسمايه ريال لا غير
+ac03043,1500,7500,510,510,510,510,7500,7500,7500,kept_courtesy,unchanged,false,false,false,false,عشره وخمسمايه ريال لا غير
+ac03044,3000,3000,1000,3000,3000,,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثعه الاف ريال فقط لا غير
+ac03045,300,300,300,300,300,300,300,300,300,verified_agreement,unchanged,false,true,true,true,فقط ثلاثمايه ريال
+ac03046,3000,300,3000,3000,3000,3000,3000,3000,3000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,ثلاثه الاف ريال فقط
+ac03047,100000,10000,1100,1100,1100,1100,10000,10000,10000,kept_courtesy,unchanged,false,false,false,false,مايه الف ريال فقط
+ac03048,1152,1152,1152,1152,1152,1152,1152,1152,1152,verified_agreement,unchanged,false,true,true,true,فقط الف ومايه واثنان وخمسون ريال لا غير
+ac03049,516,516,516,516,516,516,516,516,516,verified_agreement,unchanged,false,true,true,true,خمسمايه وسته عشر ريال لا غير
+ac03057,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال سعوقط لا غير
+ac03059,3148,3148,3148,3148,3148,3148,3148,3148,3148,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الف ومايه وثمانيه واربعون ريال لا غير
+ac03060,80000,80000,80000,80000,80000,80000,80000,80000,80000,verified_agreement,unchanged,false,true,true,true,ثمانون الف ريال فقط لا غير
+ac03063,800,800,,800,800,,800,800,800,verified_agreement,unchanged,false,true,true,true,ثمانيمايه ريال لا غير
+ac03065,39000,39000,39000,39000,39000,39000,39000,39000,39000,verified_agreement,unchanged,false,true,true,true,تسعه وثلاثون الف ريال لا غير
+ac03066,4200,4200,4200,4200,4200,4200,4200,4200,4200,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف ومايتين ريال لاغي
+ac03067,6860,6860,6060,6360,6360,,6860,6860,6860,kept_courtesy,unchanged,false,true,false,true,سته الاف وثاثايه وستون ريال
+ac03069,3080,3080,3080,3080,3080,3080,3080,3080,3080,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وثمانون ريال
+ac03071,200,200,,8,8,,200,200,200,kept_courtesy,unchanged,false,true,false,true,فقط ثمايان ريال لا غير
+ac03072,596,596,596,596,596,596,596,596,596,verified_agreement,unchanged,false,true,true,true,فقط خمسمايه سته وتسعون ريال لا غير
+ac03074,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفان ريال فقط لا غير
+ac03077,2646,2646,2646,2646,2646,2646,2646,2646,2646,verified_agreement,unchanged,false,true,true,true,الفين وستمايه وسته واربعون ريال
+ac03082,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,الف ريال لا غير
+ac03084,426516,426516,426006,426014,426014,,426516,426516,426516,kept_courtesy,unchanged,false,true,false,true,فقط اربعمايه وسته وعشرون الف وخمانيه وسته عشريال
+ac03086,1000,1000,7000,7000,7000,7000,1000,1000,1000,kept_courtesy,unchanged,false,true,false,true,سبعه الاف ريال
+ac03087,1300,1300,1003,1003,1003,1003,1300,1300,1300,kept_courtesy,unchanged,false,true,false,true,الف وثلاث ريال
+ac03088,750,750,750,750,750,750,750,750,750,verified_agreement,unchanged,false,true,true,true,سبعمايه وخمسون ريال لا غير
+ac03089,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف ريال فقط ير
+ac03094,600000,600000,1000,600000,600000,,600000,600000,600000,verified_agreement,unchanged,false,true,true,true,سبمايه الف ريال فقط
+ac03095,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,عشرون الف ريال لا غير
+ac03099,1600,1600,1600,1600,1600,1600,1600,1600,1600,verified_agreement,unchanged,false,true,true,true,الف وستمايه ريال لا غير
+ac03100,12000,12000,12000,12000,12000,12000,12000,12000,12000,verified_agreement,unchanged,false,true,true,true,اثنا عشر الف ريال
+ac03101,1600,116000,1000,1900,1900,,116000,116000,116000,kept_courtesy,unchanged,false,false,false,false,فقط الف وسعمايه ريال
+ac03102,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف ريال لا غير
+ac03103,14440,14440,14440,14440,14440,14440,14440,14440,14440,verified_agreement,unchanged,false,true,true,true,اربعه عشر الف واربعمايه واربعون ريال لا غير
+ac03104,420,400,420,420,420,420,400,400,400,kept_courtesy,unchanged,false,false,true,false,فقط اربعمايه وعشرون ريالا لا غير
+ac03105,6334,6334,6334,6334,6334,6334,6334,6334,6334,verified_agreement,unchanged,false,true,true,true,سته الاف وثلاثمايه واربعه وثلاثون ريال لا غير
+ac03106,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,خمسه الاف ريال فقط
+ac03107,25000,25000,25000,25000,25000,25000,25000,25000,25000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وعشرون الف ريال لا غير
+ac03108,14000,14000,14000,14000,14000,14000,14000,14000,14000,verified_agreement,unchanged,false,true,true,true,فقط اربعه عشر الف ريال لا غير
+ac03109,14408,14408,14408,14408,14408,14408,14408,14408,14408,verified_agreement,unchanged,false,true,true,true,اربعه عشر الف واربعمايه وثمانيه ريال لا غير
+ac03112,570,570,570,570,570,570,570,570,570,verified_agreement,unchanged,false,true,true,true,خمسمايه وسبعون ريال فقط
+ac03114,2750,2750,2750,2750,2750,2750,2750,2750,2750,verified_agreement,unchanged,false,true,true,true,الفان وسبعمايه وخمسون ريال لا غير
+ac03116,1425,1425,1420,1420,1420,1420,1425,1425,1425,kept_courtesy,unchanged,false,true,false,true,اقد الف واربعمايه وعشرون ريال لا غير
+ac03117,12750,12750,10750,12750,12750,,12750,12750,12750,verified_agreement,unchanged,false,true,true,true,اثن عشر الف وسبعمايه وخمسون ريال
+ac03120,300000,300000,300000,300000,300000,300000,300000,300000,300000,verified_agreement,unchanged,false,true,true,true,ثلاثمايه الف ريال لا غير
+ac03121,1800,1800,1800,1800,1800,1800,1800,1800,1800,verified_agreement,unchanged,false,true,true,true,الف وثمانمايه ريال فقط لا غير
+ac03122,5727,5727,5727,5727,5727,5727,5727,5727,5727,verified_agreement,unchanged,false,true,true,true,خمسه الاف وسبعمايه وسبعه وعشرون ريال لا غير
+ac03125,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال لا غير
+ac03126,70000,70000,70000,70000,70000,70000,70000,70000,70000,verified_agreement,unchanged,false,true,true,true,سبعون الف ريال لا غير
+ac03129,714,714,714,714,714,714,714,714,714,verified_agreement,unchanged,false,true,true,true,فقط سبعمايه واربعه عشر ريال لا غير
+ac03133,2450,2450,2450,2450,2450,2450,2450,2450,2450,verified_agreement,unchanged,false,true,true,true,وقدره الفان واربعمايه وخمسون ريال لا غير
+ac03134,20000,20000,1000,20000,20000,,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,خقعشرون الف ريال لا غير
+ac03138,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الاف ريال لا غير
+ac03142,8000,8000,8000,8000,8000,8000,8000,8000,8000,verified_agreement,unchanged,false,true,true,true,ثمانيه الاف ريال فقط لا غير
+ac03143,3844,3841,1844,3844,3844,,3841,3841,3841,kept_courtesy,unchanged,false,false,true,false,فقطثلاثه الاف وثمانمايه واربعه واربعون ريال لا غير
+ac03146,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,الف ريال فقط لا غير
+ac03147,1187,1187,1087,1187,1187,,1187,1187,1187,verified_agreement,unchanged,false,true,true,true,فقط الف وايه وسبعه وثمانون ريال
+ac03148,3382,3382,3382,3382,3382,3382,3382,3382,3382,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف وثلاثمايه واثنان وثمانون ريال
+ac03149,900000,900000,900000,900000,900000,900000,900000,900000,900000,verified_agreement,unchanged,false,true,true,true,فقط تسعمايه الف ريال لا غير
+ac03150,1241,1241,1241,1241,1241,1241,1241,1241,1241,verified_agreement,unchanged,false,true,true,true,فقط الف وميتان واحد واربعون ريال لا غير
+ac03153,7950,7950,7950,7950,7950,7950,7950,7950,7950,verified_agreement,unchanged,false,true,true,true,سبعه الاف وتسعمايه وخمسون ريال لا غير
+ac03154,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثون الف ريال لا غير
+ac03159,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال سعوري لاغير
+ac03160,3450,3450,3450,3450,3450,3450,3450,3450,3450,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف و اربعمايه وخمسون ريال لا غير
+ac03162,35000,35000,35000,35000,35000,35000,35000,35000,35000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وثلاثون الف ريال لا غير
+ac03163,1200,1200,1000,1200,1200,,1200,1200,1200,verified_agreement,unchanged,false,true,true,true,الف ومايتن ريال فقط
+ac03166,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,عشرون الف ريال لا غير
+ac03167,1315,1315,1315,1315,1315,1315,1315,1315,1315,verified_agreement,unchanged,false,true,true,true,الف وثلاثمايه وخمسه عشر ريال
+ac03168,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال سعوريال لا غير
+ac03170,100000,100000,1100,1100,1100,1100,100000,100000,100000,kept_courtesy,unchanged,false,true,false,true,فقط مايه الف ريال
+ac03176,1200,1200,1000,1008,1008,,1200,1200,1200,kept_courtesy,unchanged,false,true,false,true,فقط الف وماين ريال لا غير
+ac03184,300,300,300,300,300,300,300,300,300,verified_agreement,unchanged,false,true,true,true,فقط ثلاثمايه ريال سعولا غير
+ac03187,1400,1400,1400,1400,1400,1400,1400,1400,1400,verified_agreement,unchanged,false,true,true,true,فقط الف واربعمايه ريال لا غير
+ac03188,5500,5500,5500,5500,5500,5500,5500,5500,5500,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف وخمسمايه ريال لا غير
+ac03189,9000,99000,9000,9000,9000,9000,99000,99000,99000,kept_courtesy,unchanged,false,false,true,false,تسعه الاف ريال فقط
+ac03191,1100,1100,1100,1100,1100,1100,1100,1100,1100,verified_agreement,unchanged,false,true,true,true,الف ومايه ريال لا غير
+ac03195,900,900,900,900,900,900,900,900,900,verified_agreement,unchanged,false,true,true,true,تسعمايه ريال لا غير
+ac03202,6500,66500,6500,6500,6500,6500,66500,66500,66500,kept_courtesy,unchanged,false,false,true,false,سته الاف وخمسمايه ريال فقط
+ac03204,7095,795,7095,7095,7095,7095,7095,7095,7095,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,سبعه الاف وخمسه وتسعون ريال لا غير
+ac03208,37000,437000,37000,37000,37000,37000,437000,437000,437000,kept_courtesy,unchanged,false,false,true,false,سبعه وثلاثون الف ريال قط لا غير
+ac03209,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,ثلاثون الف ريال
+ac03210,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac03212,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,فقط خمسون الف ريال لا غير
+ac03213,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,فقط خمسمايه ريال لا غير
+ac03214,2720,2720,2620,2620,2620,2620,2720,2720,2720,kept_courtesy,unchanged,false,true,false,true,فقط الفان وستمايه وعشرون ريال لا غير
+ac03215,14450,14450,14450,14450,14450,14450,14450,14450,14450,verified_agreement,unchanged,false,true,true,true,اربعه عشر الف واربعمايه وخمسون ريال
+ac03216,9250,9250,9200,9250,9250,,9250,9250,9250,verified_agreement,unchanged,false,true,true,true,تسعه الاف وميتان ومسون ريال لا غير
+ac03218,32000,32000,32000,32000,32000,32000,32000,32000,32000,verified_agreement,unchanged,false,true,true,true,اثنان وثلاثون الف ريال فقط
+ac03219,80144,80144,80144,80144,80144,80144,80144,80144,80144,verified_agreement,unchanged,false,true,true,true,ثمانون الف ومايه واربع واربعون ريال قط
+ac03220,4080,4080,4080,4080,4080,4080,4080,4080,4080,verified_agreement,unchanged,false,true,true,true,اربعه الاف وثمانون ريال لا غير
+ac03222,6139,6139,6139,6139,6139,6139,6139,6139,6139,verified_agreement,unchanged,false,true,true,true,سته الاف ومايه وتسعه وثلاثون ريال
+ac03225,9954,9954,9954,9954,9954,9954,9954,9954,9954,verified_agreement,unchanged,false,true,true,true,تسعه الاف وتسعمايه واربعه وخمسون ريال لا غير
+ac03226,720,720,20,720,720,,720,720,720,verified_agreement,unchanged,false,true,true,true,فقط سبعماه وعشرون ريال لا غير
+ac03227,300000,30000,300000,300000,300000,300000,300000,300000,300000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,فقط ثلاثمايه الف ريال لا غير
+ac03231,295,295,290,295,295,,295,295,295,verified_agreement,unchanged,false,true,true,true,مايتان وخمسيه وتسعون ريال
+ac03232,4500,4500,4500,4500,4500,4500,4500,4500,4500,verified_agreement,unchanged,false,true,true,true,اربعه الاف وخمسمايه ريال لا غير
+ac03233,15153,15153,15153,15153,15153,15153,15153,15153,15153,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف ومايه وثلاثه وخمسون ريال لا غير
+ac03236,30000,30000,1000,1000,1000,1000,30000,30000,30000,kept_courtesy,unchanged,false,true,false,true,وقدرهثلاثون الف ريال فقط
+ac03237,557,557,557,557,557,557,557,557,557,verified_agreement,unchanged,false,true,true,true,خمسمايه وسبعه وخمسون ريال لا غير
+ac03238,10000,1000,10000,10000,10000,10000,10000,10000,10000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,عشره الاف ريال قط
+ac03239,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,الفان وخمسمايه ريال لا غير
+ac03241,1035,1035,1035,10035,10035,,1035,1035,1035,kept_courtesy,unchanged,false,true,false,true,وقره الف وخمسه وثلاثون ريال
+ac03243,2252,2252,250,252,252,,2252,2252,2252,kept_courtesy,unchanged,false,true,false,true,فقط لين ومايتين واثن وخمسون ريال لا غير
+ac03244,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,وقدره عشره الاف ريال فقط لا غير
+ac03245,2800,2800,1800,1800,1800,1800,2800,2800,2800,kept_courtesy,unchanged,false,true,false,true,الفا وثمانمايه ريال لا غير
+ac03247,8910,8910,8910,8910,8910,8910,8910,8910,8910,verified_agreement,unchanged,false,true,true,true,ثمانيه الف وتسعمايه وعشره ريال فقط لا غير
+ac03249,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال لا غير
+ac03250,2850,2850,1850,1850,1850,1850,2850,2850,2850,kept_courtesy,unchanged,false,true,false,true,فقط الفا وثمانمايه وخمسون ريال لا غير
+ac03253,2805,2802,805,1805,1805,,2802,2802,2802,kept_courtesy,unchanged,false,false,false,false,الفن وثمانمايه وخمسه ريال لا غير
+ac03254,800,800,800,800,800,800,800,800,800,verified_agreement,unchanged,false,true,true,true,ثمانمايه ريال لا غير
+ac03255,5520,5520,5020,5120,5120,,5520,5520,5520,kept_courtesy,unchanged,false,true,false,true,خمسه الاف وخمايه وعشرون ريال لا غير
+ac03256,1000,1000,1008,2008,2008,,1000,1000,1000,kept_courtesy,unchanged,false,true,false,true,الف ال ثمان ريال
+ac03257,5925,5925,5925,5925,5925,5925,5925,5925,5925,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف وتسعمايه وخمسه وعشرون ريال لا غير
+ac03263,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03265,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,الفان وخمسمايه ريال لا غير
+ac03266,10000,10000,,1000,1000,,10000,10000,10000,kept_courtesy,unchanged,false,true,false,true,فقط سه والافن ريال ف لا غير
+ac03267,21099,21099,21099,21099,21099,21099,21099,21099,21099,verified_agreement,unchanged,false,true,true,true,فقط احد وعشرون الف وتسعه وتسعون ريال لا غير
+ac03268,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03269,9000,9000,9000,9000,9000,9000,9000,9000,9000,verified_agreement,unchanged,false,true,true,true,فقط تسعه الاف ريال لا غير
+ac03271,400000,400000,400000,400000,400000,400000,400000,400000,400000,verified_agreement,unchanged,false,true,true,true,فقط اربعمايه الف ريال لا غير
+ac03272,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac03273,7500,7500,7500,7500,7500,7500,7500,7500,7500,verified_agreement,unchanged,false,true,true,true,سبعه الاف وخمسمايه ريال
+ac03274,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال لا غير
+ac03275,4151,4151,4151,4151,4151,4151,4151,4151,4151,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف ومايه واحد وخمسون ريال
+ac03278,730,730,730,730,730,730,730,730,730,verified_agreement,unchanged,false,true,true,true,فقط سبعمايه وثلاثون ريال لا غير
+ac03279,3000,3100,3000,3000,3000,3000,3100,3100,3100,kept_courtesy,unchanged,false,false,true,false,فقط ثلاثه الاف ي
+ac03282,5145,5145,5145,5145,5145,5145,5145,5145,5145,verified_agreement,unchanged,false,true,true,true,خمسه الاف ومايه وخمسه واربعون ريال
+ac03284,68820,68820,8000,14810,14810,,68820,68820,68820,kept_courtesy,unchanged,false,true,false,true,فقط ثمانيه وستن الف وثمنمايه وعشرن ريال لا غير
+ac03285,600,600,600,600,600,600,600,600,600,verified_agreement,unchanged,false,true,true,true,فقط ستمايه ريال لا غير
+ac03286,18100,18100,800,800,18100,,18100,18100,18100,verified_agreement,unchanged,false,true,true,true,فقط ثمانيه عشرالف ومايه ريال لا غير
+ac03288,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسمايه ريال لا غير
+ac03289,11328,11328,11328,11328,11328,11328,11328,11328,11328,verified_agreement,unchanged,false,true,true,true,احد عشر الف وثلاثمايه وثمانيه وعشرون ريالا غير
+ac03290,40000,400000,40000,40000,40000,40000,400000,400000,400000,kept_courtesy,unchanged,false,false,true,false,فقط اربعون الف ريال لا غير
+ac03292,5145,5145,5145,5145,5145,5145,5145,5145,5145,verified_agreement,unchanged,false,true,true,true,خمسه الاف ومايه وخمسه واربعون ريال فقط
+ac03293,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال قط
+ac03296,31400,31400,31400,31400,31400,31400,31400,31400,31400,verified_agreement,unchanged,false,true,true,true,فقط احد وثلاثون الف واربعمايه ريال لا غير
+ac03297,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف ريال فقط لا غير
+ac03298,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثون الف ريال لا غير
+ac03299,16000,16000,16000,16000,16000,16000,16000,16000,16000,verified_agreement,unchanged,false,true,true,true,سته عشر الف ريال فقط لا غير
+ac03302,1900,6900,1900,1900,1900,1900,6900,6900,6900,kept_courtesy,unchanged,false,false,true,false,وقدره الف وتسعمايه ريال لا غير
+ac03304,187,187,187,187,187,187,187,187,187,verified_agreement,unchanged,false,true,true,true,مايه وسبعه وثمانون ريال لا غير
+ac03308,2040,2040,2040,2040,2040,2040,2040,2040,2040,verified_agreement,unchanged,false,true,true,true,الفين واربعون ريال لا غير
+ac03311,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,فقط سته الاف ريال لا غير
+ac03316,16643,16643,16043,16643,16643,,16643,16643,16643,verified_agreement,unchanged,false,true,true,true,سته وعشر الف و ستميه وثلاثه واربعون ريال
+ac03318,10682,1682,10680,10682,10682,,1682,1682,1682,kept_courtesy,unchanged,false,false,true,false,عشره الاف و ستمايه واثن وثمانون ريال
+ac03321,100,100,100,100,100,100,100,100,100,verified_agreement,unchanged,false,true,true,true,مايه ريال سعوريلا غير
+ac03322,3300,3300,3300,3300,3300,3300,3300,3300,3300,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف وثلاثمايه ريال لا غير
+ac03328,1514,1514,514,514,514,514,1514,1514,1514,kept_courtesy,unchanged,false,true,false,true,فقف وخمسمايه واربعه عشر ريال لا غير
+ac03329,10000,10000,1000,10000,10000,,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,ععشره الاف ريال لا غير
+ac03330,4000,4000,1000,4000,4000,,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,اربعن الف ريال فقط لا غير
+ac03331,400,400,400,400,400,400,400,400,400,verified_agreement,unchanged,false,true,true,true,اربعمايه ريال لا غير
+ac03333,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسمايه ريال لا غير
+ac03334,3200,32000,3000,3008,3008,,32000,32000,32000,kept_courtesy,unchanged,false,false,false,false,ثلاثه الاف وماين ريال لا غير
+ac03337,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال
+ac03338,12000,12000,1000,10000,10000,,12000,12000,12000,kept_courtesy,unchanged,false,true,false,true,ثنعشر الف ريال فقط لا غير
+ac03341,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,خمسمايه ريال فقط لا غير
+ac03342,10000,10000,1000,1000,1000,1000,10000,10000,10000,kept_courtesy,unchanged,false,true,false,true,عون الاف ريال
+ac03344,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال لا غير
+ac03348,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,خمسمايه ريال فقط
+ac03349,4895,4895,4875,4875,4875,4875,4895,4895,4895,kept_courtesy,unchanged,false,true,false,true,فقط اربعه الاف وثمانمايه وخمسه وسبعون ريال
+ac03350,1044,1044,1044,1044,1044,1044,1044,1044,1044,verified_agreement,unchanged,false,true,true,true,الف واربعه واربعون ريال لا غير
+ac03351,10290,10290,10290,10290,10290,10290,10290,10290,10290,verified_agreement,unchanged,false,true,true,true,فقط عشره الاف وميتان وتسعون ريال لا غير
+ac03354,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال فقط لا غير
+ac03360,1175,1175,1570,1670,1670,,1175,1175,1175,kept_courtesy,unchanged,false,true,false,true,الف ومايته وخمسمايه وسبعون ريال
+ac03361,3062,3062,3062,3062,3062,3062,3062,3062,3062,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف واثنان وستون ريال لا غير
+ac03366,3535,3535,3535,3535,3535,3535,3535,3535,3535,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وخمسمايه وخمسه وثلاثون ريال فقط
+ac03367,4000,4000,,1000,1000,,4000,4000,4000,kept_courtesy,unchanged,false,true,false,true,قط ل الط
+ac03371,5145,5145,5145,5145,5145,5145,5145,5145,5145,verified_agreement,unchanged,false,true,true,true,خمسه الاف ومايه وخمسه واربعون ريال
+ac03374,2800,2800,,2008,2008,,2800,2800,2800,kept_courtesy,unchanged,false,true,false,true,الفيه وثانمانيه ريال لا غير
+ac03378,24072,24072,24072,24072,24072,24072,24072,24072,24072,verified_agreement,unchanged,false,true,true,true,اربعه وعشرون الف واثنان وسبعون ريال فقط
+ac03379,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال لا غير
+ac03380,1100,1100,1100,1100,1100,1100,1100,1100,1100,verified_agreement,unchanged,false,true,true,true,فقط الف ومايه ريال لا غير
+ac03381,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الاف ريال لا غير
+ac03384,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال لا غير
+ac03387,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03388,7000,7000,7000,7000,7000,7000,7000,7000,7000,verified_agreement,unchanged,false,true,true,true,سبعه الف ريال لا غير
+ac03389,14000,14000,14000,14000,14000,14000,14000,14000,14000,verified_agreement,unchanged,false,true,true,true,فقط اربعه عشر الف ريال لا غير
+ac03392,6200,6200,6200,6200,6200,6200,6200,6200,6200,verified_agreement,unchanged,false,true,true,true,سته الاف وميتان ريال لا غير
+ac03393,5000,5000,1000,1000,1000,1000,5000,5000,5000,kept_courtesy,unchanged,false,true,false,true,وقدرهخمسه الاف ريال فقط لا غير
+ac03394,10000,40000,10000,10000,10000,10000,40000,40000,40000,kept_courtesy,unchanged,false,false,true,false,وقدره عشره الاف ريال فقط لا غير
+ac03395,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,اربعه الاف ريال لا غير
+ac03396,900,900,900,900,900,900,900,900,900,verified_agreement,unchanged,false,true,true,true,تسعمايه ريال لا غير
+ac03398,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال لا غير
+ac03400,1988,1988,1988,1988,1988,1988,1988,1988,1988,verified_agreement,unchanged,false,true,true,true,الف وتسعمايه وثمانيه وثمانون ريال
+ac03401,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الف ريال لا غير
+ac03402,1000,1000,,1000,1000,,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,قالف ريال لا غير
+ac03403,50000,500000,1000,1000,1000,1000,500000,500000,500000,kept_courtesy,unchanged,false,false,false,false,فقط عه الف ريال لا غير
+ac03404,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,الف ريال قط لا غير
+ac03405,16500,16500,16500,16500,16500,16500,16500,16500,16500,verified_agreement,unchanged,false,true,true,true,فقط سته عشر الف وخمسمايه ريال لا غير
+ac03408,2560,2560,2560,2560,2560,2560,2560,2560,2560,verified_agreement,unchanged,false,true,true,true,الفين وخمسمايه وستون يل
+ac03410,20160,20160,1,9,9,,20160,20160,20160,kept_courtesy,unchanged,false,true,false,true,فقط مان واحد ريال وسو لهل لا غير
+ac03414,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف ريال لا غير
+ac03415,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,عشرون الف ريال فقط لا غير
+ac03418,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,الف وخمسمايه ريال لا غير
+ac03423,550,550,550,550,550,550,550,550,550,verified_agreement,unchanged,false,true,true,true,خمسمايه وخمسون ريال
+ac03426,13750,13750,13750,13750,13750,13750,13750,13750,13750,verified_agreement,unchanged,false,true,true,true,ثلاثه عشر الف وسبعمايه وخمسون ريال لا غير
+ac03427,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,الفان وخمسمايه ريال لا غير
+ac03428,2800,2800,2800,2800,2800,2800,2800,2800,2800,verified_agreement,unchanged,false,true,true,true,الفان وثمان مايه ريال عودقط لا غير
+ac03430,7305,7305,7005,7305,7305,,7305,7305,7305,verified_agreement,unchanged,false,true,true,true,فقط سبعه الاف ثلاثماه وخمسه ريال لا غير
+ac03432,84000,84000,84000,84000,84000,84000,84000,84000,84000,verified_agreement,unchanged,false,true,true,true,فقط اربعه وثمانون الف ريال لا غير
+ac03436,18300,18300,18000,18003,18003,,18300,18300,18300,kept_courtesy,unchanged,false,true,false,true,فقط ثمانيه عشر الف وثلاثيه ريال لا غير
+ac03437,1240,1240,1040,1048,1048,,1240,1240,1240,kept_courtesy,unchanged,false,true,false,true,فقط الف ومتان واربعون ريال لا غير
+ac03438,19073,19073,19073,19073,19073,19073,19073,19073,19073,verified_agreement,unchanged,false,true,true,true,فقط تسعه عشر الف وثلاثه وسبعون ريالا لا غير
+ac03444,4607,4607,4607,4607,4607,4607,4607,4607,4607,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف وستمايه وسبعه ريال لا غير
+ac03445,87000,87000,87000,87000,87000,87000,87000,87000,87000,verified_agreement,unchanged,false,true,true,true,سبعه وثمانون الف ريال فقط لا غير
+ac03446,1850,1850,1850,1850,1850,1850,1850,1850,1850,verified_agreement,unchanged,false,true,true,true,الف وثمانمايه وخمسون ريال فقط
+ac03448,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,وقدره الف ريال لا غير
+ac03449,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,فقط عشرون الف ريال لا غير
+ac03450,21000,21000,21000,21000,21000,21000,21000,21000,21000,verified_agreement,unchanged,false,true,true,true,فقط واحد وعشرون الف ريال لا غير
+ac03451,2779,2779,2779,2779,2779,2779,2779,2779,2779,verified_agreement,unchanged,false,true,true,true,الفان وسبعمايه وتسعه وسبعون ريال لا غير
+ac03453,3910,390,3910,3910,3910,3910,390,390,390,kept_courtesy,unchanged,false,false,true,false,فقط ثلاثه الاف و تسعمايه وعشر ريال لا غير
+ac03454,2952,2952,2952,2952,2952,2952,2952,2952,2952,verified_agreement,unchanged,false,true,true,true,فقط الفين وتسعمايه واثنين وخمسون ريال لا غير
+ac03455,24000,24000,4000,24000,24000,,24000,24000,24000,verified_agreement,unchanged,false,true,true,true,اربعه وعشون الف ريال لا غير
+ac03458,1080,1080,1080,1080,1080,1080,1080,1080,1080,verified_agreement,unchanged,false,true,true,true,الف وثمانون ريال لا غير
+ac03461,5600,5600,5600,5600,5600,5600,5600,5600,5600,verified_agreement,unchanged,false,true,true,true,خمسه الف وستمايه ريال لا غير
+ac03463,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03464,70000,70000,7000,7000,7000,7000,70000,70000,70000,kept_courtesy,unchanged,false,true,false,true,سبعه الاف ريال لا غير
+ac03465,500000,500000,500000,500000,500000,500000,500000,500000,500000,verified_agreement,unchanged,false,true,true,true,خمسمايه الف ريال فقط لا غير
+ac03467,500000,500000,500000,500000,500000,500000,500000,500000,500000,verified_agreement,unchanged,false,true,true,true,خمسمايه الف ريال لا غير
+ac03468,150000,150000,50100,50100,50100,50100,150000,150000,150000,kept_courtesy,unchanged,false,true,false,true,مايه وخمسون الف ريال فقط لا غير
+ac03469,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الف فريال
+ac03470,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,فقط الفين ريال لا غير
+ac03471,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الاف ريال لا غير
+ac03474,3411,3416,3411,3411,3411,3411,3416,3416,3416,kept_courtesy,unchanged,false,false,true,false,فقط ثلاثه الف واربعمايه واحد عشره ريال
+ac03476,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,فقط خمسون الف ريال لا غير
+ac03479,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال لا غير
+ac03480,7500,7500,7500,7500,7500,7500,7500,7500,7500,verified_agreement,unchanged,false,true,true,true,فقط سبعه الاف وخمسمايه ريال لا غير
+ac03481,1350,1350,1350,1350,1350,1350,1350,1350,1350,verified_agreement,unchanged,false,true,true,true,فقط الف وثلاثمايه وخمسون ريال لا غير
+ac03483,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,اربعه الاف ريال
+ac03484,1800,11800,1800,1800,1800,1800,11800,11800,11800,kept_courtesy,unchanged,false,false,true,false,الف وثمانمايه ريال فقط لا غير
+ac03485,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال لا غير
+ac03486,993,993,993,993,993,993,993,993,993,verified_agreement,unchanged,false,true,true,true,تسعمايه وثلاثه وتسعون ريال لا غير
+ac03487,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,خمسمايه ريالف فلا غير
+ac03488,280,280,80,80,80,80,280,280,280,kept_courtesy,unchanged,false,true,false,true,ان وثمانون ريال فقط لا غير
+ac03489,3320,3320,3320,3320,3320,3320,3320,3320,3320,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف وثلاثمايه وعشرون ريال لا غير
+ac03490,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,خمسمايه ريال فقط لا غير
+ac03491,12000,12000,12000,12000,12000,12000,12000,12000,12000,verified_agreement,unchanged,false,true,true,true,اثني عشر الف ريال فقط لا غير
+ac03492,1080,1080,,1000,1000,,1080,1080,1080,kept_courtesy,unchanged,false,true,false,true,الحف وان ريال لا غير
+ac03493,2580,2580,2580,2580,2580,2580,2580,2580,2580,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسمايه وثمانون ريال لا غير
+ac03495,1125,1125,125,125,125,125,1125,1125,1125,kept_courtesy,unchanged,false,true,false,true,فقده ومايه وخمسه وعشرون ريال لا غير
+ac03496,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفان ريال قط لا غير
+ac03497,1771,1771,1771,1771,1771,1771,1771,1771,1771,verified_agreement,unchanged,false,true,true,true,الف وسبعمايه واحد وسبعون ريال لا غير
+ac03498,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,ثلاثون الف ريال فقط
+ac03500,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال لا غير
+ac03501,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال فقط
+ac03503,2240,2240,2040,50000,50000,,2240,2240,2240,kept_courtesy,unchanged,false,true,false,true,الفان وثتان واربعون ريال فقطلا غير
+ac03504,68000,68000,68000,68000,68000,68000,68000,68000,68000,verified_agreement,unchanged,false,true,true,true,ثمانيه وستون الف ريال فقط لا غير
+ac03505,2550,2550,2550,2550,2550,2550,2550,2550,2550,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسمايه وخمسون ريال لا غير
+ac03509,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال فقط لا غير
+ac03510,60000,60000,1000,60000,60000,,60000,60000,60000,verified_agreement,unchanged,false,true,true,true,فقط سون الاف ريال لا غير
+ac03511,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03512,31680,31680,31080,31086,31086,,31680,31680,31680,kept_courtesy,unchanged,false,true,false,true,فقط واحد ثلاثون الفا وستاه وثمانون ريالا لا غير
+ac03513,5096,5096,5076,5076,5076,5076,5096,5096,5096,kept_courtesy,unchanged,false,true,false,true,خمسه الاف وسته وسبعون ريال لا غير
+ac03514,40000,40000,40000,40000,40000,40000,40000,40000,40000,verified_agreement,unchanged,false,true,true,true,فقط اربعون الف ريال لا غير
+ac03517,4514,4514,4514,4514,4514,4514,4514,4514,4514,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف وخمسمايه واربعه عشر ريال لا غير
+ac03518,500000,500000,1000,500000,500000,,500000,500000,500000,verified_agreement,unchanged,false,true,true,true,فقط خمسايه الف ريال لا غير
+ac03519,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03520,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03521,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03528,2574,2574,2574,2574,2574,2574,2574,2574,2574,verified_agreement,unchanged,false,true,true,true,الفان وخمسمايه واربع وسبعون ريالا لا غير
+ac03529,5200,5200,5000,5008,5008,,5200,5200,5200,kept_courtesy,unchanged,false,true,false,true,خمسه الاف وماين ريال
+ac03530,2850,2850,2850,2850,2850,2850,2850,2850,2850,verified_agreement,unchanged,false,true,true,true,الفين وثمانمايه وخمسون ريال لا غير
+ac03532,24000,24000,24000,24000,24000,24000,24000,24000,24000,verified_agreement,unchanged,false,true,true,true,فقط اربعه وعشرون الف ريال لا غير
+ac03534,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,وقدره عشره الاف ريال فقط لا غير
+ac03535,24000,24000,24000,24000,24000,24000,24000,24000,24000,verified_agreement,unchanged,false,true,true,true,فقط اربعه وعشرون الف ريال لا غير
+ac03536,24000,24000,24000,24000,24000,24000,24000,24000,24000,verified_agreement,unchanged,false,true,true,true,فقط اربعه وعشرون الف ريال لا غير
+ac03537,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال لا غير
+ac03542,2010,2010,2010,2010,2010,2010,2010,2010,2010,verified_agreement,unchanged,false,true,true,true,فقط الفان وعشره ريال لا غير
+ac03543,8500,8500,1500,1500,1500,1500,8500,8500,8500,kept_courtesy,unchanged,false,true,false,true,وقدرثمانيه الاف وخمسمايه ريال لا غير
+ac03544,3000,3000,3,3,3,3,3000,3000,3000,kept_courtesy,unchanged,false,true,false,true,ثلاثه لاون ريال
+ac03545,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,فقط عشرون الف ريال لا غير
+ac03548,5145,5145,5145,5145,5145,5145,5145,5145,5145,verified_agreement,unchanged,false,true,true,true,خمسه الاف ومايه وخمسه واربعون ريال
+ac03550,53300,53300,53300,53300,53300,53300,53300,53300,53300,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه وخمسون الف وثلاثمايه ريال لا غير
+ac03551,600,600,600,600,600,600,600,600,600,verified_agreement,unchanged,false,true,true,true,ستمايه ريال فقط لا غير
+ac03552,15800,15800,15000,15800,15800,,15800,15800,15800,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف وثمانومايه ريال لا غير
+ac03553,27900,27900,27900,27900,27900,27900,27900,27900,27900,verified_agreement,unchanged,false,true,true,true,سبعه وعشرون الف وتسعمايه ريالا لا غير
+ac03560,1100,1100,1100,1100,1100,1100,1100,1100,1100,verified_agreement,unchanged,false,true,true,true,فقط الف ومايه ريال لا غير
+ac03561,3600,3600,3600,3600,3600,3600,3600,3600,3600,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وستمايه ريال لا غير
+ac03562,25000,350000,25000,25000,25000,25000,350000,350000,350000,kept_courtesy,unchanged,false,false,true,false,فقط خمسه و عشرون لاف ريال لا غير
+ac03563,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03564,50000,50000,50,56,56,,50000,50000,50000,kept_courtesy,unchanged,false,true,false,true,فقط خمسون لع سا لا غير
+ac03569,600,600,600,600,600,600,600,600,600,verified_agreement,unchanged,false,true,true,true,ستمايه ريال لا غير
+ac03570,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال لا غير
+ac03571,1150,1150,1150,1150,1150,1150,1150,1150,1150,verified_agreement,unchanged,false,true,true,true,الف ومايه وخمسون ريال لا غير
+ac03573,3914,3914,3014,3914,3914,,3914,3914,3914,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وسعمايه واربع عشره ريال
+ac03575,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الف رياللا غير
+ac03576,3894,3894,1894,3894,3894,,3894,3894,3894,verified_agreement,unchanged,false,true,true,true,فقط ثلثه الاف وثمانمايه واربعه وتسعون ريال لا غير
+ac03578,4899,4896,4899,4899,4899,4899,4896,4896,4896,kept_courtesy,unchanged,false,false,true,false,فقط اربعه الاف وثمانمايه وتسعه وتسعون ريال لا غير
+ac03579,2000,2000,,1000,1000,,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الفن ريال لا غير
+ac03580,12500,12500,12500,12500,12500,12500,12500,12500,12500,verified_agreement,unchanged,false,true,true,true,اثنا عشر الف وخمسمايه ريال لا غير
+ac03582,1574,1574,1574,1574,1574,1574,1574,1574,1574,verified_agreement,unchanged,false,true,true,true,الف وخمسمايه اربعه وسبعون ريال لا غير
+ac03583,4034,4034,4034,4034,4034,4034,4034,4034,4034,verified_agreement,unchanged,false,true,true,true,اربعه الاف واربعه وثلاثون ريال لا غير
+ac03585,80000,80000,1000,8000,8000,,80000,80000,80000,kept_courtesy,unchanged,false,true,false,true,ثمانييه الف ريال فقط
+ac03588,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,خمسه الاف ريال لا غير
+ac03593,1867,1867,1867,1867,1867,1867,1867,1867,1867,verified_agreement,unchanged,false,true,true,true,فقط الف وثمانمايه وسبعه وستون ريال لا غير
+ac03598,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف ريال فقط
+ac03600,10000,20000,10000,10000,10000,10000,20000,20000,20000,kept_courtesy,unchanged,false,false,true,false,وقدره عشره الاف ريال فقط لا غير
+ac03602,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac03605,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,الف وخمسمايه ريال لا غير
+ac03606,14232,14232,14032,14040,14040,,14232,14232,14232,kept_courtesy,unchanged,false,true,false,true,فقط اربعه عشر الف ومان واثنان وثلاثون ريال لا غير
+ac03607,5050,5050,5050,5050,5050,5050,5050,5050,5050,verified_agreement,unchanged,false,true,true,true,خمسه الاف وخمسون ريال لا غير
+ac03613,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الف ريال فقطا
+ac03614,400000,400000,1000,700000,700000,,400000,400000,400000,kept_courtesy,unchanged,false,true,false,true,فقط ربعمايه الف ريال لا غير
+ac03615,318000,318000,318000,318000,318000,318000,318000,318000,318000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثمايه وثمانيه عشر الف ريال لا غير
+ac03616,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,اربعه الاف ريال لا غير
+ac03620,848,848,80000,80004,80004,,848,848,848,kept_courtesy,unchanged,false,true,false,true,فقط ثمانمايه مايه واربعن ريال لا غير
+ac03622,2550,2550,2550,2550,2550,2550,2550,2550,2550,verified_agreement,unchanged,false,true,true,true,فقط الفين وخمسمايه وخمسون ريال لا غير
+ac03623,12000,12000,12000,12000,12000,12000,12000,12000,12000,verified_agreement,unchanged,false,true,true,true,فقط اثنين عشره الف ريال لا غير
+ac03626,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثون الف ريال لا غير
+ac03628,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03629,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,فقط الف وخمسمايه ريال غير
+ac03631,2000,2000,,,,,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,وقدرهتسعين ريال لا غير
+ac03633,68850,68850,68800,68860,68860,,68850,68850,68850,kept_courtesy,unchanged,false,true,false,true,فقط ثمانيه وستون الف وثمانمايه وسون ريالا لا غير
+ac03635,100000,100000,1000,1100,1100,,100000,100000,100000,kept_courtesy,unchanged,false,true,false,true,فقط مانيه الف ريال لا غير
+ac03638,6167,6167,6167,6167,6167,6167,6167,6167,6167,verified_agreement,unchanged,false,true,true,true,سته الاف ومايه وسبعه وستون ريال
+ac03639,2000,2000,,1000,1000,,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,فقط الفريال لا غير
+ac03641,1667,1667,1667,1667,1667,1667,1667,1667,1667,verified_agreement,unchanged,false,true,true,true,فقط الف وستمايه وسبعه وستون ريال لا غير
+ac03643,40000,40000,40000,40000,40000,40000,40000,40000,40000,verified_agreement,unchanged,false,true,true,true,فقط اربعون الف ريال لا غير
+ac03644,70000,70000,70000,70000,70000,70000,70000,70000,70000,verified_agreement,unchanged,false,true,true,true,سبعون الف ريال لا غير
+ac03646,140000,140000,40100,40100,40100,40100,140000,140000,140000,kept_courtesy,unchanged,false,true,false,true,فقط مايه واربعون الف ريال لا غير
+ac03647,100000,100000,1100,1100,1100,1100,100000,100000,100000,kept_courtesy,unchanged,false,true,false,true,مايه الف ريال لا غير
+ac03648,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفين ريال فقط لا غير
+ac03650,10000,10000,1000,1000,1000,1000,10000,10000,10000,kept_courtesy,unchanged,false,true,false,true,وقدرهعشره الاف ريال فقط لا غير
+ac03652,1000,1000,1000,7000,7000,,1000,1000,1000,kept_courtesy,unchanged,false,true,false,true,الف ريال و سع ال
+ac03653,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسمايه ريال لا غير
+ac03660,22812,2814,824,22812,22812,,2814,2814,2814,kept_courtesy,unchanged,false,false,true,false,فقط اثنان وعشرون ال وثمانمايه واثنا عشرن ريال لا غير
+ac03664,9798,9798,9798,9798,9798,9798,9798,9798,9798,verified_agreement,unchanged,false,true,true,true,تسعه الاف وسبعمايه وثمانيه وتسعون ريال فقط
+ac03665,22400,22400,2400,12400,12400,,22400,22400,22400,kept_courtesy,unchanged,false,true,false,true,فقط اثنين وعشرن الف واربعمايه ريال لا غير
+ac03669,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الف ريال لا غير
+ac03673,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف ريال لا غير
+ac03674,11250,11550,11200,11260,11260,,11550,11550,11550,kept_courtesy,unchanged,false,false,false,false,احد عشره الفا و مايتان و سعون ريال
+ac03675,121200,121200,20300,21300,21300,,121200,121200,121200,kept_courtesy,unchanged,false,true,false,true,مايه واحدع وعشرون الف ومايتين ريال لا غير
+ac03676,34000,34000,34000,34000,34000,34000,34000,34000,34000,verified_agreement,unchanged,false,true,true,true,اربعه وثلاثون الف ريال لا غير
+ac03677,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفان ريال لا غير
+ac03679,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفان ريال لا غير
+ac03680,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال فقط لا غير
+ac03681,4800,4800,4800,4800,4800,4800,4800,4800,4800,verified_agreement,unchanged,false,true,true,true,اربعه الف وثمانمايه ريال لا غير
+ac03684,250000,25000,25000,25000,25000,25000,25000,25000,25000,verified_agreement,unchanged,false,false,false,false,فقط خمسه عشرون الف ريال لا غير
+ac03688,959,959,959,959,959,959,959,959,959,verified_agreement,unchanged,false,true,true,true,تسعمايه وتسعه وخمسون ريال
+ac03689,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,خمسه الاف ريال قط ا
+ac03692,100000,100000,8000,8000,8000,8000,100000,100000,100000,kept_courtesy,unchanged,false,true,false,true,ثمانيه الف ريال فقط لا غير
+ac03693,30000,3000,30000,30000,30000,30000,30000,30000,30000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,ثلاثون الف ريال فقط لا غير
+ac03697,23809,3809,23800,23809,23809,,3809,3809,3809,kept_courtesy,unchanged,false,false,true,false,ثلاثه وعشرون الف وثمانمايه وسع ريال
+ac03700,775,775,775,775,775,775,775,775,775,verified_agreement,unchanged,false,true,true,true,سبعمايه وخمسه وسبعون ريال فقط
+ac03701,1100,1100,1100,1100,1100,1100,1100,1100,1100,verified_agreement,unchanged,false,true,true,true,فقط الف ومايه ريال لا غير
+ac03706,4665,4665,4605,4665,4665,,4665,4665,4665,verified_agreement,unchanged,false,true,true,true,اربعه الف وسته مايه وخمسه تون ريال لا غير
+ac03707,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال لا غير
+ac03709,6218,6218,6210,6218,6218,,6218,6218,6218,verified_agreement,unchanged,false,true,true,true,فقط سته الاف ومايتان وثمانه عشر ريال لا غير
+ac03710,2480,2480,480,482,482,,2480,2480,2480,kept_courtesy,unchanged,false,true,false,true,اثفان واربعمايه وثمانون ريال فقط لا غير
+ac03711,14154,14154,14104,14164,14164,,14154,14154,14154,kept_courtesy,unchanged,false,true,false,true,اربعه عشر الف ومايه واربعه و سون ريال لا غير
+ac03712,23090,23090,23070,23070,23070,23070,23090,23090,23090,kept_courtesy,unchanged,false,true,false,true,فقط ثلاثه وعشرون الف وسبعون ريال
+ac03718,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفين ريال لا غير
+ac03722,78560,78560,60560,60660,60660,,78560,78560,78560,kept_courtesy,unchanged,false,true,false,true,قط ثمايه وستون الف وخمسمايه وستون ريال لا غير
+ac03728,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,وقدر عشر الاف ريالا غير
+ac03729,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال فقط
+ac03730,1131,131,1130,1131,1131,,131,131,131,kept_courtesy,unchanged,false,false,true,false,فقط الف ومايه وحد وثلاثون ريال لا غير
+ac03734,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,وقدره عشره الاف ريال فقط لا غير
+ac03735,25000,25000,25000,25000,25000,25000,25000,25000,25000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وعشرون الف ريال لا غير
+ac03736,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,وقدره عشره الاف ريال فقط لا غير
+ac03739,1900,1900,900,900,900,900,1900,1900,1900,kept_courtesy,unchanged,false,true,false,true,فقط اي ان وتسعمايه ريال لا غير
+ac03740,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,ثلاثون الف ريال لا غير
+ac03741,200000,200000,1000,1000,1000,1000,200000,200000,200000,kept_courtesy,unchanged,false,true,false,true,فقط الف ريال لا غير
+ac03743,1100,1100,1100,1100,1100,1100,1100,1100,1100,verified_agreement,unchanged,false,true,true,true,الف ومايه ريال لا غير
+ac03744,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03751,1630,1630,1600,1630,1630,,1630,1630,1630,verified_agreement,unchanged,false,true,true,true,الف وستمايه و ثاثون ريال لا غير
+ac03753,25000,25000,25000,25000,25000,25000,25000,25000,25000,verified_agreement,unchanged,false,true,true,true,خمسه وعشرون الف ريال فقط
+ac03755,1900,1900,1000,1600,1600,,1900,1900,1900,kept_courtesy,unchanged,false,true,false,true,الف وتمايه ريال لا غير
+ac03756,2050,2050,2050,2050,2050,2050,2050,2050,2050,verified_agreement,unchanged,false,true,true,true,فقط الفان وخمسون ريال لا غير
+ac03757,4200,4200,4000,4008,4008,,4200,4200,4200,kept_courtesy,unchanged,false,true,false,true,اربعه الاف ومان ريال قط
+ac03758,13600,13600,13600,13600,13600,13600,13600,13600,13600,verified_agreement,unchanged,false,true,true,true,ثلاثه عشر الف وستمايه ريال فقط
+ac03759,3650,3650,3650,3650,3650,3650,3650,3650,3650,verified_agreement,unchanged,false,true,true,true,ثلاثه الف وستمايه وخمسون ريال
+ac03762,2400,247,2400,2400,2400,2400,247,247,247,kept_courtesy,unchanged,false,false,true,false,الفين واربعمايه ريال لا غير
+ac03768,824,824,824,824,824,824,824,824,824,verified_agreement,unchanged,false,true,true,true,فقط ثمانمايه واربعه وعشرون ريال لا غير
+ac03772,591,591,591,591,591,591,591,591,591,verified_agreement,unchanged,false,true,true,true,خمسمايه واحد وتسعون ريال لا غير
+ac03775,9453,9453,9453,9453,9453,9453,9453,9453,9453,verified_agreement,unchanged,false,true,true,true,تسعه الاف واربعمايه وثلاثه وخمسون ريال
+ac03776,680,680,680,680,680,680,680,680,680,verified_agreement,unchanged,false,true,true,true,ستمايه وثمانون ريال لا غير
+ac03778,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03779,4537,4537,4537,4537,4537,4537,4537,4537,4537,verified_agreement,unchanged,false,true,true,true,فقط اربعه الف وخمسمايه وسبعه وثلاثون ريال
+ac03780,2500,2500,2500,2500,2500,2500,2500,2500,2500,verified_agreement,unchanged,false,true,true,true,الفين وخمسمايه ريال لا غير
+ac03781,10700,6070,10700,10700,10700,10700,6070,6070,6070,kept_courtesy,unchanged,false,false,true,false,عشره الاف وسبعمايه ريال لا غير
+ac03785,450,450,490,490,490,490,450,450,450,kept_courtesy,unchanged,false,true,false,true,اربعمايه وتسعون ريال فقط لا غير
+ac03787,2390,2390,1390,1390,1390,1390,2390,2390,2390,kept_courtesy,unchanged,false,true,false,true,الف وثلاثمايه وتسعون ريال لا غير
+ac03789,8000,8000,1000,8000,8000,,8000,8000,8000,verified_agreement,unchanged,false,true,true,true,ثمانه الاف ريال لا غير
+ac03791,16000,16000,16000,16000,16000,16000,16000,16000,16000,verified_agreement,unchanged,false,true,true,true,سته عشر الف ريال فقط
+ac03794,10382,10382,10382,10382,10382,10382,10382,10382,10382,verified_agreement,unchanged,false,true,true,true,عشره الاف وثلاثمايه واثنين وثمانون ريال لا غير
+ac03795,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,فقط الف وخمسمايه ريال لا غير
+ac03796,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الف ريال لا غير
+ac03797,108600,10600,1700,8700,8700,,10600,10600,10600,kept_courtesy,unchanged,false,false,false,false,فقط مايه وثمانه الاف و ستمايه ريال لا غير
+ac03799,180000,180000,80100,80100,80100,80100,180000,180000,180000,kept_courtesy,unchanged,false,true,false,true,مايه وثمانون الف ريال لا غير
+ac03800,2980,2980,2980,2980,2980,2980,2980,2980,2980,verified_agreement,unchanged,false,true,true,true,الفين وتسعمايه وثمانون ريال
+ac03802,1500,1500,500,500,500,500,1500,1500,1500,kept_courtesy,unchanged,false,true,false,true,وقدرهالف وخمسمايه ريال لا غير
+ac03808,45920,45920,45900,45910,45910,,45920,45920,45920,kept_courtesy,unchanged,false,true,false,true,خمسه واربعون الف وتسعمايه وعشرن ريال
+ac03809,2660,2660,2060,2066,2066,,2660,2660,2660,kept_courtesy,unchanged,false,true,false,true,فقط الفان وستاه وستون ريالا لا غير
+ac03814,13365,13365,13365,13365,13365,13365,13365,13365,13365,verified_agreement,unchanged,false,true,true,true,ثلاثه عشره الف وثلاثمايه وخمس وستون ريال
+ac03815,900,900,,900,900,,900,900,900,verified_agreement,unchanged,false,true,true,true,تسماليه ريال لا غير
+ac03816,22000,22000,22000,22000,22000,22000,22000,22000,22000,verified_agreement,unchanged,false,true,true,true,اثنان وعشرون الف ريال لا غير
+ac03819,7000,700,1000,60000,60000,,700,700,700,kept_courtesy,unchanged,false,false,false,false,فقط سعون الف ريال لا غير
+ac03822,10120,10120,10120,10120,10120,10120,10120,10120,10120,verified_agreement,unchanged,false,true,true,true,عشره الاف ومايه وعشرون ريال فقط
+ac03823,6860,6860,6860,6860,6860,6860,6860,6860,6860,verified_agreement,unchanged,false,true,true,true,سته الاف وثمانمايه وستون ريال
+ac03826,3300,33000,3300,3300,3300,3300,33000,33000,33000,kept_courtesy,unchanged,false,false,true,false,فقط ثلاثه الاف وثلاثمايه ريال لا غير
+ac03827,12383,12383,12383,12383,12383,12383,12383,12383,12383,verified_agreement,unchanged,false,true,true,true,اثني عشر الف وثلاثمايه وثلاثه وثمانون ريال لا غير
+ac03828,4260,4260,4260,4260,4260,4260,4260,4260,4260,verified_agreement,unchanged,false,true,true,true,اربعه الاف ومايتان و ستون ريال لا غير
+ac03831,471,471,471,471,471,471,471,471,471,verified_agreement,unchanged,false,true,true,true,اربعمايه واحد وسبعون ريال فقط
+ac03836,22000,22000,22000,22000,22000,22000,22000,22000,22000,verified_agreement,unchanged,false,true,true,true,وقدره اثنان وعشرون الف ريال لا غير
+ac03838,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الف ريال لا غير
+ac03842,7000,7000,7000,7000,7000,7000,7000,7000,7000,verified_agreement,unchanged,false,true,true,true,فقط سبعه الاف ريال لا غير
+ac03843,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال لا غير
+ac03845,3000,3000,1000,2000,2000,,3000,3000,3000,kept_courtesy,unchanged,false,true,false,true,ثثنه الاف ريال
+ac03846,18480,18480,18008,18012,18012,,18480,18480,18480,kept_courtesy,unchanged,false,true,false,true,ثمانيه عشر الف واربعاه وثمان ريال فقط لا غير
+ac03847,6500,6500,6500,6500,6500,6500,6500,6500,6500,verified_agreement,unchanged,false,true,true,true,فقط سته الاف وخمسمايه ريال لا غير
+ac03849,2610,2610,2600,2610,2610,,2610,2610,2610,verified_agreement,unchanged,false,true,true,true,الفين وستمايه وعشرن ريال
+ac03855,21222,21222,1010,11020,11020,,21222,21222,21222,kept_courtesy,unchanged,false,true,false,true,احد وعشرن الف وماين واثن وعشر ريال فلا غير
+ac03857,46550,46550,10550,10550,10550,10550,46550,46550,46550,kept_courtesy,unchanged,false,true,false,true,سته واربعه الف وخمسمايه وخمسون ريال لا غير
+ac03858,755,755,755,755,755,755,755,755,755,verified_agreement,unchanged,false,true,true,true,فقط سبعمايه وخمسه وخمسون ريال
+ac03859,4500,4500,4500,4500,4500,4500,4500,4500,4500,verified_agreement,unchanged,false,true,true,true,اربعه الاف وخمسمايه ريال ود ل
+ac03862,1000,10,1000,1000,1000,1000,10,10,10,kept_courtesy,unchanged,false,false,true,false,الف ريال لا غير
+ac03863,40000,40000,40000,40000,40000,40000,40000,40000,40000,verified_agreement,unchanged,false,true,true,true,اربعون الف ريال فقط لا غير
+ac03866,5000,500,5000,5000,5000,5000,5000,5000,5000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,فقط خمسه الف ريال لا غير
+ac03869,1500,6500,1500,1500,1500,1500,6500,6500,6500,kept_courtesy,unchanged,false,false,true,false,الف وخمسمايه ريال فقط لا غير
+ac03870,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac03873,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,فقط خمسمايه ريال لا غير
+ac03874,30200,30200,1000,3200,3200,,30200,30200,30200,kept_courtesy,unchanged,false,true,false,true,ثلاثوه الف ومايتن ريال فقط
+ac03875,4500,4500,4000,4500,4500,,4500,4500,4500,verified_agreement,unchanged,false,true,true,true,اربعه الاف ومسمايه ريال لا غير
+ac03877,55500,55500,55000,55500,55500,,55500,55500,55500,verified_agreement,unchanged,false,true,true,true,فقط خمسه وخمسون الف وخمسايه ريال لا غير
+ac03878,1911,7911,1610,1611,1611,,7911,7911,7911,kept_courtesy,unchanged,false,false,false,false,الف وستمايه واحدي عشر ريال لا غير
+ac03880,15050,15050,15050,15050,15050,15050,15050,15050,15050,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف وخمسون ريال لا غير
+ac03881,6975,6975,1975,1975,1975,1975,6975,6975,6975,kept_courtesy,unchanged,false,true,false,true,فقط ه الاف وتسعمايه وخمسه وسبعون ريال لا غير
+ac03882,1771,1771,1771,1771,1771,1771,1771,1771,1771,verified_agreement,unchanged,false,true,true,true,فقط الف وسبعمايه واحد وسبعون ريال لا غير
+ac03884,200000,200000,200000,200000,200000,200000,200000,200000,200000,verified_agreement,unchanged,false,true,true,true,فقط مايتان الف ريال لا غير
+ac03887,23909,23909,23909,23909,23909,23909,23909,23909,23909,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه وعشرون الف وتسعمايه وتسعه ريال لا غير
+ac03888,1300,130,1300,1300,1300,1300,1300,1300,1300,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,الف وثلاثمايه ريال لا غير
+ac03891,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف ريال لا غير
+ac03892,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,فقط الفان ريال لا غير
+ac03895,720,720,620,620,620,620,720,720,720,kept_courtesy,unchanged,false,true,false,true,ستمايه وعشرون ريال لا غير
+ac03899,3935,3935,3905,3908,3908,,3935,3935,3935,kept_courtesy,unchanged,false,true,false,true,فقط ثلاثه الاف وتسعمايه وخمسه ثلاثو ريال لا غير
+ac03900,1600,11600,1600,1600,1600,1600,11600,11600,11600,kept_courtesy,unchanged,false,false,true,false,فقط الف وستمايه ريال لا غير
+ac03901,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,فقط ثلاثون الف ريال لا غير
+ac03903,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,خمسه عشره الف ريال لا غير
+ac03905,4920,4920,4920,4920,4920,4920,4920,4920,4920,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف وتسعمايه وعشرون ريال لا غير
+ac03910,480000,480000,480000,480000,480000,480000,480000,480000,480000,verified_agreement,unchanged,false,true,true,true,فقط اربعمايه وثمانون الف ريال لا غير
+ac03911,15000,15000,5000,5000,5000,5000,15000,15000,15000,kept_courtesy,unchanged,false,true,false,true,خمسه الف ريال لا غير
+ac03914,6450,6450,6050,6450,6450,,6450,6450,6450,verified_agreement,unchanged,false,true,true,true,سته الاف واربعماه وخمسون ريال لا غير
+ac03915,70000,70000,70000,70000,70000,70000,70000,70000,70000,verified_agreement,unchanged,false,true,true,true,فقط سبعون الف ريال لا غير
+ac03918,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,خمسه الاف ريال فقط لا غير
+ac03921,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال فقط لا غير
+ac03922,5511,5511,5511,5511,5511,5511,5511,5511,5511,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف وخمسمايه واحد عشر ريالا لا غير
+ac03923,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال لا غير
+ac03928,5000,50000,5000,5000,5000,5000,50000,50000,50000,kept_courtesy,unchanged,false,false,true,false,خمسه الاف ريال فقط
+ac03929,14112,14112,14100,14122,14122,,14112,14112,14112,kept_courtesy,unchanged,false,true,false,true,اربعه عشر الف ومايه واثن عشريل لا غير
+ac03932,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,فقط الف وخمسمايه ريال لا غير
+ac03936,500000,500000,500000,500000,500000,500000,500000,500000,500000,verified_agreement,unchanged,false,true,true,true,خمسمايه الف ريال فقط لا غير
+ac03937,130000,130000,30100,30100,30100,30100,130000,130000,130000,kept_courtesy,unchanged,false,true,false,true,فقط مايه وثلاثون الف ريال لا غير
+ac03938,900,900,9,9,9,9,900,900,900,kept_courtesy,unchanged,false,true,false,true,تسع ريال فقط لا غير
+ac03939,1300,1300,1300,1300,1300,1300,1300,1300,1300,verified_agreement,unchanged,false,true,true,true,الف وثلاثمايه ريال
+ac03940,3000,3000,1000,1000,1000,1000,3000,3000,3000,kept_courtesy,unchanged,false,true,false,true,وقدرهثلاه الاف ريال
+ac03941,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ريال فقط لا غير
+ac03943,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال فقط لا غير
+ac03945,1461,1461,1461,1461,1461,1461,1461,1461,1461,verified_agreement,unchanged,false,true,true,true,فقط الف واربعمايه واحد وستون ريال لا غير
+ac03946,10150,10150,10150,10150,10150,10150,10150,10150,10150,verified_agreement,unchanged,false,true,true,true,عشره الف ومايه وخمسون ريال فقط لا غير
+ac03947,3585,3585,3585,3585,3585,3585,3585,3585,3585,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الف وخمسمايه وخمسه وثمانون ريال لا غير
+ac03948,1283,1283,1283,1283,1283,1283,1283,1283,1283,verified_agreement,unchanged,false,true,true,true,الف ومايتان وثلاثه وثمانون ريالا لا غير
+ac03952,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال فقط لا غير
+ac03955,2850,2850,2850,2850,2850,2850,2850,2850,2850,verified_agreement,unchanged,false,true,true,true,فقط الفان وثمانمايه وخمسون ريال لا غير
+ac03958,10000,10000,20000,20000,20000,20000,10000,10000,10000,kept_courtesy,unchanged,false,true,false,true,عشرون الف ريال فقط
+ac03959,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,عشرون الف ريال لا غير
+ac03962,3350,3350,3350,3350,3350,3350,3350,3350,3350,verified_agreement,unchanged,false,true,true,true,فقط ثلاثه الاف وثلاثمايه وخمسون ريال
+ac03964,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,فقط الفين ريال لا غير
+ac03967,4960,4960,4960,4960,4960,4960,4960,4960,4960,verified_agreement,unchanged,false,true,true,true,اربعه الاف وتسعمايه وستون ريال لا غير
+ac03975,2600,2600,2600,2600,2600,2600,2600,2600,2600,verified_agreement,unchanged,false,true,true,true,الفين ستمايه ريال لا غير
+ac03976,2073,2073,2073,2073,2073,2073,2073,2073,2073,verified_agreement,unchanged,false,true,true,true,الفان وثلاثه وسبعون ريال لا غير
+ac03979,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac03983,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشره الاف ريال لا غير
+ac03984,110000,110000,10100,10100,10100,10100,110000,110000,110000,kept_courtesy,unchanged,false,true,false,true,مايه وعشره الاف ريال لا غير
+ac03986,11000,11000,11000,11000,11000,11000,11000,11000,11000,verified_agreement,unchanged,false,true,true,true,احد عشر الف ريال لا غير
+ac03987,400000,400000,400000,400000,400000,400000,400000,400000,400000,verified_agreement,unchanged,false,true,true,true,اربعمايه الف ريال فقط لا غير
+ac03989,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,الف وخمسمايه ريال لا غير
+ac03990,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال لا غير
+ac03991,9651,9651,6151,6151,6151,6151,9651,9651,9651,kept_courtesy,unchanged,false,true,false,true,فقط سته الف ومايه واحد وخمسون ريال لا غير
+ac03994,35400,35400,35400,35400,35400,35400,35400,35400,35400,verified_agreement,unchanged,false,true,true,true,فقط خمسه وثلاثون الف واربعمايه ريال لا غير
+ac03995,17500,17500,17500,17500,17500,17500,17500,17500,17500,verified_agreement,unchanged,false,true,true,true,فقط سبعه عشر الف وخمسمايه ريال لا غير
+ac03996,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,فقط عشره الاف ريال لا غير
+ac03997,3360,3360,1060,1063,1063,,3360,3360,3360,kept_courtesy,unchanged,false,true,false,true,ثه الف وثلاثاه وستون ريال فقط لا غير
+ac03998,1070,1070,1070,1070,1070,1070,1070,1070,1070,verified_agreement,unchanged,false,true,true,true,الف وسبعون ريال فقط لا غير
+ac04000,40000,40000,40000,40000,40000,40000,40000,40000,40000,verified_agreement,unchanged,false,true,true,true,اربعون الف رياللا غير
+ac04002,1500,1500,1500,1500,1500,1500,1500,1500,1500,verified_agreement,unchanged,false,true,true,true,الف وخمسمايه ريال
+ac04004,1275,1275,1275,1275,1275,1275,1275,1275,1275,verified_agreement,unchanged,false,true,true,true,الف وميتان وخمس وسبعون ريال فقط
+ac04005,2100,2100,2100,2100,2100,2100,2100,2100,2100,verified_agreement,unchanged,false,true,true,true,قطه الفان ومايه ريال لا غير
+ac04007,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,فقط الف ان ريال لا غير
+ac04008,10000,10000,5000,5000,5000,5000,10000,10000,10000,kept_courtesy,unchanged,false,true,false,true,فقط خمسه الف ريال لا غير
+ac04010,720,720,720,720,720,720,720,720,720,verified_agreement,unchanged,false,true,true,true,فقط سبعمايه وعشرون ريال
+ac04012,2000,2000,2000,2000,2000,2000,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,الفين ن ريال لا غير
+ac04015,26306,26306,26306,26306,26306,26306,26306,26306,26306,verified_agreement,unchanged,false,true,true,true,سته وعشرون الف وثلاثمايه وسته ريال لا غير
+ac04017,10337,10337,1337,10337,10337,,10337,10337,10337,verified_agreement,unchanged,false,true,true,true,شره الاف وثلاثمايه وسبعه وثلاثون ريال لا غير
+ac04020,4900,4900,4900,4900,4900,4900,4900,4900,4900,verified_agreement,unchanged,false,true,true,true,اربعه الاف وتسعمايه ريال لا غير
+ac04021,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف ريال لا غير
+ac04022,4000,400,4000,4000,4000,4000,4000,4000,4000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,اربعه الاف ريال لا غير
+ac04023,5000,500,5000,5000,5000,5000,5000,5000,5000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,خمسه الاف يا
+ac04024,40300,40300,,,,,40300,40300,40300,kept_courtesy,unchanged,false,true,false,true,فقطيه و ا يا ل لا غير
+ac04027,1670,1670,1670,1670,1670,1670,1670,1670,1670,verified_agreement,unchanged,false,true,true,true,فقط الف وستمايه وسبعون ريال لا غير
+ac04031,500,500,500,500,500,500,500,500,500,verified_agreement,unchanged,false,true,true,true,خمس مايه ريال فقط
+ac04033,6500,6500,6500,6500,6500,6500,6500,6500,6500,verified_agreement,unchanged,false,true,true,true,سته الف وخمسمايه ريال فقط لا غير
+ac04035,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف ريال
+ac04036,15000,715000,15000,15000,15000,15000,715000,715000,715000,kept_courtesy,unchanged,false,false,true,false,خمسه عشر الف ريال فقط
+ac04039,2650,2650,2650,2650,2650,2650,2650,2650,2650,verified_agreement,unchanged,false,true,true,true,الفين وستمايه وخمسون ريال لا غير
+ac04041,175000,175000,75000,75100,75100,,175000,175000,175000,kept_courtesy,unchanged,false,true,false,true,مايت وخمسه وسبعون الف ريال لا غير
+ac04043,450000,450000,4500,4500,4500,4500,450000,450000,450000,kept_courtesy,unchanged,false,true,false,true,فقط اربعه الف وخمسمايه ريال لا غير
+ac04045,900,900,900,900,900,900,900,900,900,verified_agreement,unchanged,false,true,true,true,فقط تسعمايه ريال
+ac04047,2000,2000,1000,1000,1000,1000,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,الف يريال
+ac04048,1828,1828,1828,1828,1828,1828,1828,1828,1828,verified_agreement,unchanged,false,true,true,true,وقاحد الف وثمانمايه وثمانيه وعشرون ريال لا غير
+ac04049,7000,57000,7000,7000,7000,7000,57000,57000,57000,kept_courtesy,unchanged,false,false,true,false,سبعه الاف ريال لا غير
+ac04052,6000,6000,6000,6000,6000,6000,6000,6000,6000,verified_agreement,unchanged,false,true,true,true,سته الاف ريال
+ac04055,1882,1882,1882,1882,1882,1882,1882,1882,1882,verified_agreement,unchanged,false,true,true,true,الف وثمانمايه واثنان وثمانون ريال
+ac04056,3180,3180,3180,3180,3180,3180,3180,3180,3180,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف ومايه وثمانون ريال لا غير
+ac04057,5000,5000,5000,5000,5000,5000,5000,5000,5000,verified_agreement,unchanged,false,true,true,true,فقط خمسه الاف ريال لا غير
+ac04058,97000,97000,97000,97000,97000,97000,97000,97000,97000,verified_agreement,unchanged,false,true,true,true,سبعه وتسعون الف ريال
+ac04059,17679,17679,17070,17179,17179,,17679,17679,17679,kept_courtesy,unchanged,false,true,false,true,سبعه عشر الف وسمايه وسعه وسبعون ريال فقط
+ac04061,5682,5682,5010,5110,5110,,5682,5682,5682,kept_courtesy,unchanged,false,true,false,true,وقدره خمسه الاف و سمايه واثنان وثمان ريال لا غير
+ac04065,3000,3000,1000,1000,1000,1000,3000,3000,3000,kept_courtesy,unchanged,false,true,false,true,وقدرهثلاثه الاف ريال لا غير
+ac04066,20000,20000,20000,20000,20000,20000,20000,20000,20000,verified_agreement,unchanged,false,true,true,true,عشرون الف ريال
+ac04067,7350,7350,7350,7350,7350,7350,7350,7350,7350,verified_agreement,unchanged,false,true,true,true,سبعه الف وثلاثمايه وخمسون ريال فقط
+ac04068,1190,1190,1190,1190,1190,1190,1190,1190,1190,verified_agreement,unchanged,false,true,true,true,فقط الف ومايه وتسعون ريال
+ac04069,1855,1855,1855,1855,1855,1855,1855,1855,1855,verified_agreement,unchanged,false,true,true,true,الف وثمانمايه وخمسه وخمسون ريال
+ac04072,50000,550000,,50,50,,550000,550000,550000,kept_courtesy,unchanged,false,false,false,false,فقط خمسوان ريال لا غير
+ac04073,4680,4680,4680,4680,4680,4680,4680,4680,4680,verified_agreement,unchanged,false,true,true,true,اربعه الاف وستمايه وثمانون ريال لا غير
+ac04075,30544,30544,30544,30544,30544,30544,30544,30544,30544,verified_agreement,unchanged,false,true,true,true,ثلاثون الاف و خمسمايه واربعه واربعون ريال
+ac04077,2979,2979,2900,2990,2990,,2979,2979,2979,kept_courtesy,unchanged,false,true,false,true,الفين وتسعمايه وتسعوون ريال فقط
+ac04082,45000,400,450,450,450,450,400,400,400,kept_courtesy,unchanged,false,false,false,false,فقط اربعمايه وخمسون ريال
+ac04084,900,900,,,,,900,900,900,kept_courtesy,unchanged,false,true,false,true,ين ريال لا غير
+ac04087,2000,2000,,2000,2000,,2000,2000,2000,verified_agreement,unchanged,false,true,true,true,فقط الفانن ريال
+ac04088,555,559,555,555,555,555,559,559,559,kept_courtesy,unchanged,false,false,true,false,خمسمايه وخمسه وخمسون ريال فقط
+ac04089,20000,20000,1000,60000,60000,,20000,20000,20000,kept_courtesy,unchanged,false,true,false,true,شاون الف ريال فقط
+ac04095,18000,18000,18000,18000,18000,18000,18000,18000,18000,verified_agreement,unchanged,false,true,true,true,ثمانيه عشره الف ريال لا غير
+ac04100,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,فقط الف ريال لا غير
+ac04101,80000,80000,1000,50000,50000,,80000,80000,80000,kept_courtesy,unchanged,false,true,false,true,خمسرون الف ريال لا غير
+ac04106,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,فقط خمسه عشر الف ريال لا غير
+ac04108,2500,2500,1500,1500,1500,1500,2500,2500,2500,kept_courtesy,unchanged,false,true,false,true,الف وخمسمايه ريال فقط لا غير
+ac04109,2511,2511,2501,2511,2511,,2511,2511,2511,verified_agreement,unchanged,false,true,true,true,الفان وخمسمايه واحد عه شر ريال لا غير
+ac04110,209,2199812128,200,209,209,,2199812128,2199812128,2199812128,kept_courtesy,unchanged,false,false,true,false,مايتان واتسعه ريال لا غير
+ac04113,100884,100884,1984,1984,1984,1984,100884,100884,100884,kept_courtesy,unchanged,false,true,false,true,مايه الف وثمان ومايه واربع وثمانون ريال لا غير
+ac04115,10000,10000,1000,10000,10000,,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عروه الاف ريال
+ac04116,67728,67728,67020,67728,67728,,67728,67728,67728,verified_agreement,unchanged,false,true,true,true,فقط سبعه وستون الف وسبعماه وثمانه وعشرون ريال لا غير
+ac04121,1600,1600,1600,1600,1600,1600,1600,1600,1600,verified_agreement,unchanged,false,true,true,true,الف وستمايه ريال لا غير
+ac04122,1000,1000,1000,1000,1000,1000,1000,1000,1000,verified_agreement,unchanged,false,true,true,true,الف ريال فقط لا غير
+ac04126,3600,3600,3600,3600,3600,3600,3600,3600,3600,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وستمايه ريال فقط لا غير
+ac04127,3000,3000,3000,3000,3000,3000,3000,3000,3000,verified_agreement,unchanged,false,true,true,true,ثلاثه لاف ريال لا غير
+ac04132,2495,2495,2495,2495,2495,2495,2495,2495,2495,verified_agreement,unchanged,false,true,true,true,الفان واربعمايه وخمسه وتسعون ريال
+ac04134,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال لا غير
+ac04139,12000,12000,10000,12000,12000,,12000,12000,12000,verified_agreement,unchanged,false,true,true,true,فقط اثي عشر الف ريال لا غير
+ac04140,35000,35000,35000,35000,35000,35000,35000,35000,35000,verified_agreement,unchanged,false,true,true,true,فقط خمسه وثلاثون الف ريال لا غير
+ac04143,51250,51250,51250,51250,51250,51250,51250,51250,51250,verified_agreement,unchanged,false,true,true,true,واحد وخمسون الف ومايتان وخمسون ريال
+ac04145,338,338,338,338,338,338,338,338,338,verified_agreement,unchanged,false,true,true,true,ثلاثمايه وثمانيه وثلاثون ريال سعو
+ac04148,10000,10000,10000,10000,10000,10000,10000,10000,10000,verified_agreement,unchanged,false,true,true,true,عشره الاف ريال فقط لا غير
+ac04149,100000,100000,1100,1100,1100,1100,100000,100000,100000,kept_courtesy,unchanged,false,true,false,true,فقط مايه الف ريال لا غير
+ac04152,50000,50000,50000,50000,50000,50000,50000,50000,50000,verified_agreement,unchanged,false,true,true,true,خمسون الف ريال لا غير
+ac04153,8000,8000,8000,8000,8000,8000,8000,8000,8000,verified_agreement,unchanged,false,true,true,true,فقط ثمانيه الاف ريال لا غير
+ac04154,4000,4000,4000,4000,4000,4000,4000,4000,4000,verified_agreement,unchanged,false,true,true,true,اربعه الاف ريال فقط
+ac04157,2232,2232,2232,2232,2232,2232,2232,2232,2232,verified_agreement,unchanged,false,true,true,true,فقط الفان وميتان واثنين وثلاثون ريال لا غير
+ac04159,2880,2880,2880,2880,2880,2880,2880,2880,2880,verified_agreement,unchanged,false,true,true,true,الفان وثمانمايه وثمانون
+ac04162,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,ثلاثون الف ريال لا غير
+ac04163,990,990,990,990,990,990,990,990,990,verified_agreement,unchanged,false,true,true,true,فقط تسعمايه و تسعون لا غير
+ac04164,4440,44440,4440,4440,4440,4440,44440,44440,44440,kept_courtesy,unchanged,false,false,true,false,اربعه الاف واربعمايه واربعون رياللا
+ac04165,12642,12642,12642,12642,12642,12642,12642,12642,12642,verified_agreement,unchanged,false,true,true,true,اثنا عشر الف وستمايه واثنان واربعون ريال
+ac04166,30000,30000,30000,30000,30000,30000,30000,30000,30000,verified_agreement,unchanged,false,true,true,true,وقدره ثلاثون الف ريال
+ac04167,1618,3618,1010,1610,1610,,3618,3618,3618,kept_courtesy,unchanged,false,false,false,false,فقط الف وستاه وثمايه وعشر ريال لا غير
+ac04171,2424,2444,2424,2424,2424,2424,2444,2444,2444,kept_courtesy,unchanged,false,false,true,false,فقط الفين واربعمايه اربعه وعشرون ريال لا غير
+ac04177,947,947,947,947,947,947,947,947,947,verified_agreement,unchanged,false,true,true,true,تسعمايه وسبعه واربعون ريال لا غير
+ac04178,3800,3800,3800,3800,3800,3800,3800,3800,3800,verified_agreement,unchanged,false,true,true,true,ثلاثه الاف وثمانمايه ريال فقط ا غير
+ac04179,18100,18100,18100,18100,18100,18100,18100,18100,18100,verified_agreement,unchanged,false,true,true,true,فقط ثمانيه عشر الف ومايه ريال لا غير
+ac04180,5700,5700,5700,5700,5700,5700,5700,5700,5700,verified_agreement,unchanged,false,true,true,true,خمسه الاف وسبعمايه ريال فقط
+ac04181,672,673,672,672,672,672,673,673,673,kept_courtesy,unchanged,false,false,true,false,فقط ستمايه واثنان وسبعون ريال لا غير
+ac04183,2224,2224,2224,2224,2224,2224,2224,2224,2224,verified_agreement,unchanged,false,true,true,true,فقط الفان و ميتان و اربعه وعشرون ريال لا غير
+ac04184,15000,15000,15000,15000,15000,15000,15000,15000,15000,verified_agreement,unchanged,false,true,true,true,خمسه عشر الف ريال فقط لا غير
+ac04185,10000,1000,10000,10000,10000,10000,10000,10000,10000,corrected_by_legal_consensus,insert_missing_zero,true,false,true,true,عشره الاف ريال فقط لا غير
+ac04186,165,165,9,169,169,,165,165,165,kept_courtesy,unchanged,false,true,false,true,مانيه وتسع وسون ريال لا غير
+ac04188,5363,5363,1063,1066,1066,,5363,5363,5363,kept_courtesy,unchanged,false,true,false,true,سه الاف وثلاثا وثلاثه وستون ريال
+ac04195,740,740,740,740,740,740,740,740,740,verified_agreement,unchanged,false,true,true,true,سبعمايه واربعين ريال لا غير
+ac04198,6726,6726,6726,6726,6726,6726,6726,6726,6726,verified_agreement,unchanged,false,true,true,true,فقط سته الاف وسبعمايه وسته وعشرون ريال لا غير
+ac04200,6004,6004,6004,6004,6004,6004,6004,6004,6004,verified_agreement,unchanged,false,true,true,true,فقط سته الاف واربعه ريالا لا غير
+ac04202,2000,2000,,,,,2000,2000,2000,kept_courtesy,unchanged,false,true,false,true,وقدر تلسفن ريال لا غير
+ac04203,360,360,360,360,360,360,360,360,360,verified_agreement,unchanged,false,true,true,true,ثلاثمايه وستون ريالا فقط
+ac04206,1920,1920,1920,1920,1920,1920,1920,1920,1920,verified_agreement,unchanged,false,true,true,true,الف وتسعمايه وعشرون ريال لا غير
+ac04207,4900,4900,4900,4900,4900,4900,4900,4900,4900,verified_agreement,unchanged,false,true,true,true,فقط اربعه الاف وتسعمايه ريال لا غير
+ac04209,8000,8000,1000,1000,1000,1000,8000,8000,8000,kept_courtesy,unchanged,false,true,false,true,وقدرهثمانه الاف ريال لا غير

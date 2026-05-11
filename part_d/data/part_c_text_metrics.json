@@ -1,0 +1,22 @@
+{
+  "raw": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.0113581606663455,
+    "wer_percent": 81.65330529635958,
+    "exact_text_percent": 0.0,
+    "char_errors": 728,
+    "char_reference_count": 14527,
+    "word_errors": 6213,
+    "word_reference_count": 7609
+  },
+  "normalized": {
+    "amounts_evaluated": 598,
+    "cer_percent": 5.0113581606663455,
+    "wer_percent": 54.97875484943654,
+    "exact_text_percent": 10.033444816053512,
+    "char_errors": 728,
+    "char_reference_count": 14527,
+    "word_errors": 2976,
+    "word_reference_count": 5413
+  }
+}
